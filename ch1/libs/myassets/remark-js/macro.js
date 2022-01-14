@@ -61,7 +61,7 @@ return f();
 */
 
 remark.macros.positionText = function (top, left, deg, z) {
-  var f = (...args) => '<div style="position: absolute; top:' + top + '; left:' + left +'; z-index:'+z+'; opacity:0.75;-ms-transform: tb-rl;-webkit-transform:  rotate(' + deg +');-moz-transform: rotate(' + deg +'); transform: :rotate(' + deg +');">'+ 'more' + (args[0] == '[object Window]' ?  '' : args[0]) + '</div>';
+  var f = (...args) => '<div style="position: absolute; top:' + top + '; left:' + left +'; z-index:'+z+'; opacity:0.75;-ms-transform: tb-rl;-webkit-transform:  rotate(' + deg +');-moz-transform: rotate(' + deg +'); transform: :rotate(' + deg +');">'+  (args[0] == '[object Window]' ?  '' : args[0]) + '</div>';
     
 return f(this);
 }; 
