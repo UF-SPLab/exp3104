@@ -6,3 +6,9 @@ Sensory Processes
 
 ### Chapter 2
 - [Beginnings of the Perceptual Process](https://uf-splab.github.io/exp3104/ch2/ch2.html)
+
+### Chapter 3
+- [Neural Processing](https://uf-splab.github.io/exp3104/ch3/ch3.html)
+
+### Chapter 4
+- [Cortical Organization](https://uf-splab.github.io/exp3104/ch4/ch4_fix.html)
