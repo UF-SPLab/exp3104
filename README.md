@@ -11,4 +11,4 @@ Sensory Processes
 - [Neural Processing](https://uf-splab.github.io/exp3104/ch3/ch3.html)
 
 ### Chapter 4
-- [Cortical Organization](https://uf-splab.github.io/exp3104/ch4/ch4_fix.html)
+- [Cortical Organization](https://uf-splab.github.io/exp3104/ch4/ch4.html)
