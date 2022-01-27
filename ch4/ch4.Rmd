@@ -258,7 +258,7 @@ Figure 4.6 Location column. When an electrode penetrates the cortex perpendicula
 
 # The Cortex is Organized in Columns
 
-![](fig_4_7.png)
+![](orientation_column.png)
 
 
 ???
@@ -298,7 +298,6 @@ Figure 4.9 A location column that contains the full range of orientation columns
 # .font60[How Do Orientation-Sensitive Neurons Respond to a Scene?]
 - **Tiling** – columns working together to cover the entire visual field
 
---
 
 ![](fig_4_10.png)
 
@@ -312,8 +311,11 @@ Figure 4.10 (a) A scene from the Pennsylvania woods. (b) Focusing in on part of 
 
 # .font70[How Do Orientation-Sensitive Neurons Respond?]
 
-![](fig_4_11.png)
+![:positionImage 12%, 5%, 0deg, 350px](fig_4_11.png)
+--
 
+![:positionImage 15%, 55%, 0deg, 350px](fig_3_37a.png)
+![:positionImage 55%, 15%, 0deg, 350px](fig_3_37d.png)
 
 ???
 
@@ -355,12 +357,12 @@ class: inverse, center, middle
 
 # .font80[Streams for Information About What and Where]
 .pull-left[
-- Ungerleider and Mishkin experiment
-    - Object discrimination problem
-- A monkey is shown an object.
-- Then it is presented with a two choice task.
-- A reward is given for detecting the target object
-    - Landmark discrimination problem
+Ungerleider and Mishkin experiment
+- **Object discrimination problem**
+   - A monkey is shown an object, a "rectangle block".
+   - Then it is presented with a two choice task.
+   - A reward is given for detecting the rectanglular target object
+- **Landmark discrimination problem**
 - The monkey is trained to pick the food well next to a cylinder.
 ]
 .pull-right[
@@ -385,27 +387,18 @@ Figure 4.13 The two types of discrimination tasks used by Ungerleider and Mishki
 
 | |**2-Choice** Task |**Landmark** Task |
 |:---|:---:|:---:|
-|**Parietal** Ablation |  **+**  |  **-**  |
-|**Temporal** Ablation |  **-**  |  **+**  |
+|**Parietal** Ablation |  **++**  |  .red.font100[**x**]  |
+|**Temporal** Ablation |  .red.font100[**x**]  | **++**  |
 ]
 
 
 ---
 
 # .font80[Streams for Information About What and Where]
-- What pathway: also called the ventral pathway
-- Where pathway: also called the dorsal pathway
-- Both pathways: 
-    - Originate in retina and continue through two types of ganglion cells in the LGN
-    - Have some interconnections
-    - Receive feedback from higher brain areas
 
 
----
-
-# .font80[Streams for Information About What and Where]
-
-![](fig_4_14.png)
+![:positionImage 15%, 5%, 0deg, 800px](fig_4_14.png)
+  
 
 
 ???
@@ -465,20 +458,6 @@ Figure 4.16 Performance of D.F. and a person without brain damage on two tasks: 
 
 
 
----
-
-# .font80[Behavior of People Without Brain Damage]
-- Ganel experiment was designed to demonstrate a separation of perception and action in non-brain-damage subjects.
-
----
-
-# .font80[Behavior of People Without Brain Damage]
-
-![](fig_4_17.png)
-
-???
-
-Figure 4.17 (a) The size illusion used by Ganel and coworkers (2008) in which line 2 looks longer than line 1. The numbers were not present in the display seen by the subjects. (b) The two vertical lines from (a), showing that line 2 is actually shorter than line 1. (c) subjects in the experiment adjusted the space between their fingers either to estimate the length of the lines (length estimation task) or to reach toward the lines to grasp them (grasping task). The distance between the fingers is measured by sensors on the fingers. (d) Results of the length estimation and grasping tasks in the Ganel et al. experiment. The length estimation task indicates the illusion, because the shorter line (line 2) was judged to be longer. In the grasping task, subjects separated their fingers more for the longer line (line 1), which was consistent with the physical lengths of the lines. 
 
 ---
 class: inverse, center, middle
@@ -557,44 +536,12 @@ Figure 4.19 Results of the Tsao et al. (2006) experiment in which activity of ne
     - A stimulus causes neural activity in a number of different areas of the brain.
     - Activity is distributed across the brain.
 
----
-
-# Distributed Representation: 2 Experiments
-- fMRI experiment demonstrates distributed representation.
-- Maximum activity occurs in separate areas of cortex.
-- Huth and colleagues paradox
-    - Results confirm earlier research that specific areas of the brain are responsible for perception of specific stimuli
-- Also reveal a map that stretches across cortex
-
-![](fig_4_21.png)
-
-???
-
-Figure 4.21 fMRI responses of the human brain to various types of stimuli: 
-- (a) areas strongly activated by **houses, faces, and chairs**; 
-- (b) area magnitude X each type of stimulus. 
-
-
----
-
-# Distributed Representation: 2 Experiments
-
-.pull-left[
-![](fig_4_22.png)
-]
-.pull-right[
-![](fig_4_23.png)
-]
-
-???
-
-Figure 4.22 Four frames from the movies viewed by subjects in Huth et al.’s (2012) experiment. The words on the right indicate categories that appear in the frames (n 5noun; v 5verb). 
-
-Figure 4.23 The results of Huth et al.’s (2012) experiment, showing locations on the brain where the indicated categories are most likely to activate the brain. Colors indicate areas that respond similarly. For example, both areas marked “Animals” are yellow. 
 
 ---
 
 # .font70[Distributed Representation: Multidimensional Stimuli]
+
+.pull-left[
 - We respond to other aspects of faces.
     - Emotional aspects
     - Where someone is looking
@@ -602,12 +549,6 @@ Figure 4.23 The results of Huth et al.’s (2012) experiment, showing locations 
     - How attractive a face is
     - Whether the face is familiar
 - Also multi-dimensions of pain
-
----
-
-# .font70[Distributed Representation: Multidimensional Stimuli]
-
-.pull-left[
 
 ![](fig_4_24a.png)
 ]
@@ -670,30 +611,6 @@ Figure 4.27
 - (b) solving mind–body problem: go beyond corr. 
     - to determine how ion flow or nerve firing 
     - **causes the experiences** of “Susan’s face” or the color “red.” 
-
-
----
-
-# Experience and Neural Responding
-
-.pull-left[
-- Experience-dependent plasticity in humans
-    - Brain imaging experiments show areas that respond best to letters and words.
-    - fMRI experiments show that training results in areas of the FFA responding best to:
-- Greeble stimuli
-- Cars and birds for experts in these areas
-]
-
-
-.pull-right[
-  
-![](fig_4_28.png)
-]
-
-???
-
-Figure 4.28 (a) Greeble stimuli used by Gauthier. Participants were trained to name each different Greeble. (b) Brain responses to Greebles and faces before and after Greeble training. 
-
 
 
 
