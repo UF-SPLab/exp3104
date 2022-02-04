@@ -465,8 +465,7 @@ class: inverse, center, middle
 # .font70[Modularity vs Distributed Representations]
 
 ## .font70[Discuss research on modularity, including locations of specialized cells and specific stimuli, in both monkeys and humans.]
-## .font70[Explain the connection between the hippocampus and vision in light of Quiroga and coworkers (2005, 2008) studies.]
-## .font70[Describe the method and results of research that shows that neurons can be shaped by experience in humans, as well as the expertise hypothesis in relation to the FFA.]
+
 
 
 ---
@@ -485,17 +484,12 @@ class: inverse, center, middle
 
 ???
 
-Figure 4.18 Size of response of a neuron in the monkey’s IT cortex that responds to face stimuli but not to non-face stimuli. 
+Figure 4.18 Size of response of a neuron in the monkey’s IT cortex that responds to face stimuli but not to non-face stimuli. These ventral stream neurons in Inferotemporal cortex are very specific even though human faces are not very similar to monkey faces.
 
 ???
 http://scholarpedia.org/article/Modular_models_of_brain_function
 https://en.m.wikipedia.org/wiki/Visual_modularity
 http://scholarpedia.org/article/Neural_net_language_models#Distributed_Representations
-
----
-# .font60[Representation of Complex Sets of Features in Visual Pathways]
-
-![](fncom-08-00135-g001.jpg)
 
 ---
 
@@ -506,6 +500,12 @@ http://scholarpedia.org/article/Neural_net_language_models#Distributed_Represent
 ???
 
 Figure 4.19 Results of the Tsao et al. (2006) experiment in which activity of neurons in the monkey’s temporal lobe was recorded in response to faces, other objects, and a scrambled stimulus. 
+
+
+---
+# .font60[Representation of Complex Sets of Features in Visual Pathways]
+
+![](fncom-08-00135-g001.jpg)
 
 
 ---
