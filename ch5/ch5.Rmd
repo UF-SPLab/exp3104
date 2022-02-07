@@ -342,7 +342,7 @@ class: inverse, center, middle
 
 ### Discuss research on semantic regularities in scenes.
 ### Discuss Helmholtz’s theory of unconscious inference, and Bayesian inference.
-### Identify the rationale for and use of masking stimuli.
+
 
 
 ---
