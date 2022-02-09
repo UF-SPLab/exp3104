@@ -1,0 +1,556 @@
+---
+title: "Chapter 6: <br/>Visual Attention"
+subtitle: "📕🔬📓<br/>"
+author: "Sensory Processes EXP3104"
+date: "October 2, 2017"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: ["libs/remark-css/BackToTheFuture_linear.css", "libs/remark-css/text-fx.css"]
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+class: inverse, center, middle
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+### Scanning a Scene
+### What Are the Benefits of Attention?
+### Attention and Experiencing a Coherent World
+### What Happens When We Don’t Attend?
+### Distraction
+
+---
+class: inverse, center, middle
+
+
+### Scanning a Scene
+##### Define attention and explain why attention is necessary.
+##### Identify the factors that determine where a person looks in a visual scene with supporting examples from research studies.
+##### Describe Posner et al.’s (1978) precueing task and what it revealed about attention.
+
+---
+
+## Scanning a Scene
+- Visual scanning - looking from place to place
+    - Fixation
+    - Saccadic eye movement
+- Overt attention involves looking directly at the attended object.
+- Covert attention refers to attention without looking.
+
+---
+
+## Scanning a Scene
+
+![](fig_6_1.png)
+
+???
+Figure 6.1 Where is Jennifer Hudson? Where is Robin Thicke?
+
+---
+
+## Scanning a Scene
+
+
+![](fig_6_2.png)
+
+???
+Figure 6.2 Scan path of a person freely viewing a picture. Fixations are indicated by the yellow dots and saccadic eye movements by the red lines. Notice that this person looked preferentially at areas of the picture such as the statues by ignored areas such as the water, rocks, and buildings.
+
+---
+
+## What Directs Our Attention?
+
+.pull-left[
+
+- Characteristics of the scene:
+    - Visual salience: areas of stimuli that attract attention due to their properties
+    - Color, contrast, and orientation are relevant properties.
+- Attentional capture
+
+]
+.pull-right[
+
+![](fig_6_3.png)
+]
+
+???
+Figure 6.3 The red shirt is visually salient because it is bright and contrasts with its surroundings.
+
+
+---
+
+## What Directs Our Attention?
+
+![](fig_6_4.png)
+
+???
+
+Figure 6.4 An example of attentional capture. When subjects are instructed to find the green circle, they often look at the red diamond first.
+
+
+---
+
+## What Directs Our Attention?
+
+
+![](fig_6_5.png)
+
+???
+
+Figure 6.5 (a) A visual scene. (b) Saliency map of the scene determined by analyzing the color, contrast, and orientations in the scene. Lighter areas indicate greater salience. 
+
+
+---
+
+## Cognitive Factors
+- Picture meaning and observer knowledge
+    - Scene schema: prior knowledge about what is found in typical scenes
+- Fixations are influenced by this knowledge.
+
+---
+
+## Cognitive Factors
+- Experiment by Shinoda et al.
+    - Observers' fixations were measured during computer simulated driving.
+- They were more likely to detect stop signs when they were at intersections.
+- They have learned that this is where stop signs are typically placed.
+
+---
+
+## Cognitive Factors
+
+
+![](fig_6_6.png)
+
+???
+
+Figure 6.6 Stimuli used by Võ and Henderson (2009). Subjects spent more time looking at (a) the printer than at (b) the pot, shown inside the yellow rectangles (which were not visible to the subjects). 
+
+---
+
+## Cognitive Factors
+- One way to show that where we look isn't determined only by saliency is by checking the eye movements of the subject.
+    - Meaning likely has attracted attention
+- Attention can be influenced by a person's goals.
+
+---
+
+## Cognitive Factors
+
+![](fig_6_7.png)
+
+???
+
+Figure 6.7 Yarbus (1967) asked subjects to view the painting in (a) and recorded their eye movements while they had to (b) estimate the ages of the people, (c) remember the clothes worn by the people, or (d) remember the positions of all the people and objects in the room. The figure shows data collected by James Brockmole using Yarbus’ original procedures combined with modern eye tracking technology. Results show that subjects’ eye movements are strongly influenced by the task
+
+
+
+---
+
+## Task-Related Knowledge
+
+.pull-left[
+- Determine where people look as they carry out tasks.
+- Timing of when people look at specific places is determined by the sequence of actions involved in the task.
+
+]
+.pull-right[
+
+![](fig_6_8.png)
+]
+
+???
+
+Figure 6.8 Sequence of fixations of a person making a peanut butter sandwich. The first fixation is on the loaf of bread.
+
+---
+
+## What Are the Benefits of Attention?
+
+.pull-left[
+- Spatial attention: attention to specific locations
+- Experiment by Posner (1978) et al.
+    - Observers looked at a fixation point.
+    - Precueing with an arrow indicated on which side a stimulus was likely to appear.
+    - Stimuli appeared that were consistent (valid trial) or inconsistent (invalid trial) with the cue.
+    - Task was to push button when a target square was seen.
+]
+.pull-right[
+
+![](fig_6_9.png)
+]
+
+???
+
+Figure 6.9 Procedure for the (a) valid task and (b) invalid task in Posner and coworkers’ (1978) precueing experiment. See text for details. (c) The results of the experiment. The average reaction time was 245 ms for valid trials but 305 ms for invalid trials. 
+
+
+---
+
+## Attention Speeds Responding
+.pull-left[
+- Results of Posner experiment showed that observers responded fastest on valid trials.
+- Posner believed these results showed that information processing is most efficient where attention is directed.
+
+]
+.pull-right[
+
+![](fig_6_9.png)
+]
+
+???
+
+Figure 6.9 Procedure for the (a) valid task and (b) invalid task in Posner and coworkers’ (1978) precueing experiment. See text for details. (c) The results of the experiment. The average reaction time was 245 ms for valid trials but 305 ms for invalid trials. 
+
+
+---
+class: inverse, center, middle
+
+### What Are the Benefits of Attention?
+##### Explain the same-object advantage and the implications for attention.
+
+![](Spotlight.jpg)
+
+---
+
+## Spotlight of Attention
+
+![](fig_6_10.png)
+
+???
+
+Figure 6.10 Spatial attention can be compared to a spotlight that scans a scene.
+
+---
+
+## Attention Speeds Responding
+
+.pull-left[
+- Experiment by Egly et al.
+    - Observer views two rectangles.
+    - Cue signals where target may appear.
+    - Task: to press button when target appeared.
+    - Results: 
+- Fastest reaction time was at targeted position.
+- "Enhancement" effect for non-target was within the target rectangle.
+
+]
+.pull-right[
+
+![](fig_6_11.png)
+]
+
+???
+
+Figure 6.11 In Egley and coworkers’ (1994) experiment, (a) a cue signal appears at one place on the display, then the cue is turned off and (b) a target is flashed at one of four possible locations, A, B, C, or D. Numbers are reaction times in ms for positions A, B, and C, when the cue appeared at position A.
+
+
+
+
+---
+
+## Attention Can Influence Appearance
+
+- Experiment by Carrasco et al.
+    - Observers saw two grating stimuli with either similar or different contrast between the bars.
+    - Task was to fixate on center point between gratings and indicate orientation of bars with higher contrast.
+    - Small dot was flashed very quickly on one side before gratings appeared.
+
+![](fig_6_13.png)
+
+???
+
+Figure 6.13 Procedure for Carrasco and coworkers’ (2004) experiment. See text for explanation.
+
+
+---
+
+## Attention Can Influence Appearance
+- Carrasco results:
+    - When there was a large difference in contrast, the dot had no effect.
+    - When the contrast was the same, observers were more likely to report that the grating preceded by the dot had higher contrast.
+    - Thus, the shift of attention led to an effect on perception.
+
+
+---
+
+## Attention Can Influence Physiological Responding
+
+.pull-left[
+- O'Craven (1999): subject attended to the house or face show that attending to the moving or stationary face caused enhanced activity in the FFA and attending to the moving or stationary house caused enhanced activity in the PPA
+
+]
+.pull-right[
+![](fig_6_14.png)
+]
+
+???
+
+Figure 6.14 (a) Superimposed face and house stimulus used in O’Craven and coworkers’ (1999) experiment. (b) FFA activation when the subject attended to the face or the house. (c) PPA activation for attention to the face or the house. 
+
+
+---
+
+## Attention Can Influence Physiological Responding
+
+.pull-left[
+- Datta and DeYoe (2009)
+    - Attention maps show directing attention to a specific area of space activates a specific area of the brain.
+- Womelsdorf (2006)
+    - Showed that attention can cause a monkey's receptive field to shift toward the place where the attention is directed
+
+]
+.pull-right[
+
+![](fig_6_15.png)
+]
+
+???
+
+Figure 6.15 (a) Subjects in Datta and DeYoe’s (2009) experiment directed their attention to different areas of this circular display while keeping their eyes fixed on the center of the display. (b) Activation of the brain that occurred when the subjects attended to the areas indicated by the letters on the stimulus disc. The center of each circle is the place on the brain that corresponds to the center of the stimulus. The yellow “hot spot” is the area of the brain that is maximally activated by attention. 
+
+
+---
+
+## Attention Can Influence Physiological Responding
+
+.pull-left[
+- Attention also causes changes in the relationship between activity in different areas of the brain. 
+    - Local field potential
+- Bosman and colleagues research
+    - Communication through coherence 
+
+]
+.pull-right[
+
+![](fig_6_16.png)
+]
+
+???
+
+Figure 6.16 In the Bosman et al. (2012) experiment. (a) the monkey kept eyes fixed on the blue dot and paid attention to either stimulus 1, which caused LFP responding in A and C, or stimulus 2, which caused LFP responding in B and C. (b) LFP responses recorded from sites A (red) and C (green) when monkey was not attending to stimulus 1. (c) LFP responses recorded from A and C when monkey was attending to stimulus 1. Notice that the responses are more synchronized in (c). 
+
+
+---
+class: inverse, center, middle
+
+### Attention and Experiencing a Coherent World
+##### Describe the link between neural responding and attention.
+
+
+---
+
+## Attention and Experiencing a Coherent World
+- Binding: process by which features are combined to create perception of coherent objects
+- Binding problem: features of objects are processed separately in different areas of the brain
+- So, how does binding occur?
+
+
+![](fig_6_18.png)
+
+???
+
+Figure 6.18 Any stimulus, even one as simple as a rolling ball, activates a number of different areas of the cortex. Binding is the process by which these separated signals are combined to create a unified perception.
+
+
+---
+
+## Feature Integration Theory
+- Preattentive stage: features of objects are separated.
+- Focused attention stage: features are bound into a coherent perception.
+
+
+![](fig_6_19.png)
+
+???
+
+Figure 6.19 Flow diagram of Treisman’s (1988) feature integration theory. 
+
+---
+
+## Feature Integration Theory
+
+.pull-left[
+- Illusory conjunctions: features that should be associated with an object become incorrectly associated with another.
+- Experiment by Triesman & Schmidt
+    - Stimulus was four shapes flanked by two numbers.
+    - Display flashed briefly, followed by a mask.
+    - Task was to report numbers first followed by shapes at four locations.
+]
+.pull-right[
+![](fig_6_20.png)
+]
+
+???
+
+Figure 6.20 Stimuli for Treisman and Schmidt’s (1982) experiment. When subjects first attended to the black numbers and then to the other objects, some illusory conjunctions, such as “green triangle,” occurred.
+
+
+---
+
+## Feature Integration Theory
+- Triesman & Schmidt results:
+    - Incorrect associations of features with objects occurred 18% of the time.
+    - Asking observers to focus on the target objects eliminated this effect.
+- Balint's syndrome: patients with parietal lobe damage show lack of focused attention results in incorrect combinations of features
+
+
+---
+class: inverse, center, middle
+
+### What Happens When We Don’t Attend?
+##### Define change detection, change blindness, and continuity errors.
+##### Describe how the dual-task procedure has been used to determine the role of attention in scene perception; also discuss findings from those studies.
+
+
+---
+
+## What Happens When We Don't Attend?
+- Inattentional blindness
+    - Subjects can be unaware of clearly visible stimuli if they aren't directing their attention to them.
+
+www.youtube.com/watch?v=vJG698U2Mvo
+
+---
+
+## Inattentional Blindness
+
+
+![](fig_6_24.png)
+
+???
+
+Figure 6.24 Frame from Simons and Chabris’s (1999) experiment. 
+
+---
+
+## Inattentional Blindness
+
+
+
+![](fig_6_23.png)
+
+???
+
+Figure 6.23 Inattentional blindness experiment. (a) The cross display is presented for five trials. One arm of the cross is slightly longer on each trial. The subject’s task is to indicate which arm (horizontal or vertical) is longer. (b) On the sixth trial, the subjects carry out the same task, but a small square is included in the display. After the sixth trial, subjects are asked if they saw anything different than before. 
+
+
+
+---
+
+## Change Blindness
+- Observers were shown a picture with and without a missing element in an alternating fashion with a blank screen.
+- Results showed that the pictures had to alternate a number of times before the change was detected.
+- When a cue is added to show where to attend, observers noticed change more quickly.
+
+---
+
+## Change Blindness
+- Change blindness also occurs for film shots.
+- People are "blind" to the fact that they experience change blindness.
+- Real objects in the environment change with some type of movement, which is why we normally don't experience change blindness.
+
+
+---
+
+## Change Blindness
+
+http://channel.nationalgeographic.com/brain-games/videos/brain-games-pay-attention/
+
+
+## Change Blindness
+
+![](400px-Barn_FlickerMovie.gif)
+
+---
+
+## Change Blindness
+
+
+![](fig_6_25.png)
+
+???
+
+Figure 6.25 Stimulus for change-blindness demonstration. 
+
+
+---
+
+## Is Attention Necessary for Perceiving Scenes?
+
+.pull-left[
+- Experiment by Li et al. (2002)
+    - Observers performed one of three tasks.
+- Central task: determine whether letters flashed in the center of the screen are the same
+- Peripheral task: determine whether faces flashed to the side of the screen are male or female
+- Dual task: do the same as the peripheral task and determine the color of a disc.
+
+]
+.pull-right[
+
+![](fig_6_26.png)
+]
+
+???
+
+
+Figure 6.26 (a–c) Procedure for Li and coworkers’ (2002) experiment. See text for details. (d) Results of the experiment. Performance is the percent correct when carrying out the central task compared to the percent correct when not carrying out the central task. Performance drops only slightly for the scene, but drops to near chance for the colored-disc task. 
+
+
+---
+class: inverse, center, middle
+
+### Distraction
+##### Describe the load theory of attention and how it accounts for the interaction between task difficulty and distraction.
+
+##### Compare and contrast feature and conjunction searches.
+
+---
+
+## Distraction
+
+.pull-left[
+- Task-irrelevant stimuli are stimuli that do not provide information relevant to the task.
+- Forster and Lavie (2008)
+    - Load theory of attention
+    - Perceptual capacity
+    - Perceptual load
+    - Low-load tasks
+]
+
+.pull-right[
+
+![](fig_6_29.png)
+]
+
+???
+
+Figure 6.29 The rationale for the idea that (a) low-load tasks that use few cognitive resources may leave resources available for processing unattended task-irrelevant stimuli, whereas (b) high-load tasks that use all of a person’s cognitive resources don’t leave any resources to process unattended task-irrelevant stimuli.
+
+
+---
+
+## Distracted Driving
+
+.pull-left[
+- Driving requires constant attention.
+- Strayer and Johnston research (2001) on cell phone use and driving
+    - Anything that distracts attention can degrade driving performance.
+
+]
+.pull-right[
+
+
+![](fig_6_30.png)
+]
+
+???
+
+Figure 6.30 Results of Strayer and Johnston’s (2001) cell phone experiment. When subjects were talking on a cell phone, they (a) missed more red lights and (b) took longer to apply the brakes.
+
+
