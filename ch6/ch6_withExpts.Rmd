@@ -293,6 +293,9 @@ class: inverse, center, middle
 Figure 6.10 Spatial attention can be compared to a spotlight that scans a scene.
 
 
+
+
+
 ---
 
 # What Directs Attention? 
@@ -408,20 +411,22 @@ Figure 6.14 (a) Superimposed face and house stimulus used in O’Craven and cowo
 # .font70[Attention Can Influence Physiological Responding]
 
 .pull-left[
-- Datta and DeYoe (2009)
-    - Attention maps show directing attention to a specific area of space activates a specific area of the brain.
-- Womelsdorf (2006)
-    - Showed that attention can cause a monkey's receptive field to shift toward the place where the attention is directed
-
-]
-.pull-right[
+Datta and DeYoe (2009)
+- Attention maps show directing attention to a specific area of space activates a specific area of the brain.
 
 ![](fig_6_15.png)
+]
+.pull-right[
+Womelsdorf (2006)
+- Showed that attention can cause a monkey's receptive field to shift toward the place where the attention is directed
+![](Wommelsdorf_2006.jpg)
 ]
 
 ???
 
 Figure 6.15 (a) Subjects in Datta and DeYoe’s (2009) experiment directed their attention to different areas of this circular display while keeping their eyes fixed on the center of the display. (b) Activation of the brain that occurred when the subjects attended to the areas indicated by the letters on the stimulus disc. The center of each circle is the place on the brain that corresponds to the center of the stimulus. The yellow “hot spot” is the area of the brain that is maximally activated by attention. 
+
+(a–c) Receptive field (RF) profiles when attention was directed inside the RF, to stimulus S1 (a) or S2 (c), or when attention was directed outside the RF, to S3 (b). The surface color at each point in the plots indicates the increase in the neuron's response elicited by the presentation of a probe stimulus at that position, over the response observed in the absence of a probe (that is, when only S1 and S2 were present). Supplementary Fig. 1 online shows the same data as absolute firing rates. (d) Difference map, computed by subtracting the RF when attention was on S1 from the RF when attention was on S2. The map illustrates that shifting attention from S1 to S2 enhances responsiveness around S2 and reduces it near S1.
 
 ---
   

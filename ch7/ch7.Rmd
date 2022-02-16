@@ -78,6 +78,14 @@ Approach developed by J. J. Gibson (began in late 1950s)
 - **Invariant information**: properties that remain constant while the observer is moving
 
 ---
+class: clear, inverse
+
+![:positionImage 0%, -30%, 0deg, 1500px](biles1.jpg)
+
+
+
+
+---
 
 # Self-Produced Information
 - Somersaulting
@@ -91,7 +99,7 @@ Approach developed by J. J. Gibson (began in late 1950s)
 
 # Self-Produced Information
 
-![](fig_7_5.png)
+![](biles2.jpg)
 
 ???
 
