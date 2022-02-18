@@ -1,0 +1,234 @@
+Chapter 8
+Perceiving Motion
+Perceiving Motion
+
+
+
+Functions of Movement Perception
+Survival in the environment
+Predators use movement of prey as a primary means of location in hunting.
+Attentional capture: motion attracts attention to the moving object.
+Thus, if prey remains motionless, it is less likely to be noticed.
+Akinetopsia: blindness to motion
+
+
+Functions of Movement Perception (cont'd.)
+
+
+
+Functions of Movement Perception (cont'd.)
+
+
+
+Functions of Movement Perception (cont'd.)
+
+
+
+Studying Motion Perception
+Real motion: an object is physically moving
+Illusory motion
+Apparent movement: stationary stimuli are presented in slightly different locations
+Basis of movement in movies and TV
+Induced motion: movement of one object results in the perception of movement in another object.
+
+Studying Motion Perception (cont'd.)
+
+
+Studying Motion Perception (cont'd.)
+Motion aftereffect
+Observer looks at movement of object for 30 to 60 seconds.
+Then, observer looks at a stationary object.
+Movement appears to occur in the opposite direction from the original movement.
+The waterfall illusion is an example of this.
+
+
+Studying Motion Perception (cont'd.)
+
+
+
+
+Comparison of Real and Apparent Motion
+Experiment by Larsen et al.
+Participant is scanned by an fMRI while viewing three displays.
+Control condition: two dots in different positions are flashed simultaneously.
+Real motion: a small dot is moved back and forth.
+Apparent motion: dots are flashed so they appear to move.
+Comparison of Real and Apparent Motion (cont'd.)
+Results:
+Control condition: each dot activated a separate area of visual cortex.
+Apparent and real motion: activation of visual cortex from both sets of stimuli was similar.
+Thus, the perception of motion in both cases is related to the same brain mechanism.
+
+Comparison of Real and Apparent Motion (cont'd.)
+
+
+
+What We Want to Explain
+An object moves, and the observer is stationary.
+Movement creates an image that moves on the observer’s retina.
+An object moves, and the observer follows the object with his or her eyes.
+Movement is tracked so that the image is stationary on the retina.
+What We Want to Explain (cont'd.)
+An observer moves through a stationary environment.
+Image of environment moves across retina but environment is perceived as stationary.
+What mechanism explains all three situations?
+What We Want to Explain (cont'd.)
+
+
+What We Want to Explain (cont'd.)
+
+
+What We Want to Explain (cont'd.)
+
+
+What We Want to Explain (cont'd.)
+
+
+Motion Perception: Information in the Environment
+Ecological approach (Gibson)
+Information is directly available in the environment for perception.
+Optic array: structure created by surfaces, textures, and contours, which change as the observer moves through the environment.
+Motion Perception: Information in the Environment (cont'd.)
+Local disturbance in the optic array
+Objects relative to background such that it is covered and uncovered
+Global optic flow
+Overall movement of optic array
+Indicates that observer is moving and not the environment
+Motion Perception: Retina/Eye Information
+Reichardt detectors are neurons that fire to movement in one direction.
+Output unit
+Delay unit
+Motion Perception: Retina/Eye Information (cont'd.)
+
+
+Motion Perception: Retina/Eye Information (cont'd.)
+Corollary discharge theory: movement perception depends on three signals.
+Image displacement signal (IDS): movement of image stimulating receptors across the retina
+Motor signal (MS): signal sent to eyes to move eye muscles
+Corollary discharge signal (CDS): split from the motor signal
+
+Motion Perception: Retina/Eye Information (cont'd.)
+Movement is perceived when comparator receives input from:
+Corollary discharge signal
+Image displacement signal
+Movement is not perceived when comparator receives input from:
+Both corollary discharge and image displacement signals at the same time
+Motion Perception: Retina/Eye Information (cont'd.)
+
+
+Motion Perception: Retina/Eye Information (cont'd.)
+
+
+Behavioral Evidence for Corollary Discharge Theory
+
+
+Behavioral Evidence for Corollary Discharge Theory (cont'd.)
+
+
+Physiological Evidence for Corollary Discharge Theory
+Damage to the medial superior temporal area in humans leads to perception of movement of stationary environment with movement of eyes.
+Real-movement neurons found in monkeys that respond only when a stimulus moves and do not respond when eyes move.
+Physiological Evidence for Corollary Discharge Theory (cont'd.)
+
+
+Motion Perception in the Brain
+Perception of motion begins in the striate cortex, the region of the occipital lobe where information from the retinas first reaches the cortex.
+Neurons on the striate cortex respond to movement of the ends of objects.
+Middle temporal (MT) area
+Motion Perception in the Brain (cont'd.)
+Firing and coherence experiment by Newsome et al.
+Coherence of movement of dot patterns was varied.
+Monkeys were taught to judge direction of dot movement and measurements were taken from MT neurons.
+Results showed that as coherence of dot movement increased, so did the firing of the MT neurons and the judgment of movement accuracy.
+Motion Perception in the Brain (cont'd.)
+
+
+Motion Perception in the Brain (cont'd.)
+Lesioning experiment by Newsome and Paré
+Normal monkeys can detect motion with coherence of 1 or 2%.
+Monkeys with lesions in MT cortex cannot detect motion until the coherence is 10 to 20%.
+Motion Perception in the Brain (cont'd.)
+
+
+Effect of Lesioning, Deactivating, and Stimulating
+Microstimulation experiment by Movshon and Newsome
+Monkey trained to indicate direction of fields of moving dots.
+Neurons in MT cortex that respond to specific direction were activated.
+Experimenter used microstimulation to activate different direction sensitive neurons.
+Monkey shifted judgment to the artificially stimulated direction.
+
+Effect of Lesioning, Deactivating, and Stimulating (cont'd.)
+
+
+
+Motion from a Single Neuron’s Point of View
+Complex cortical cells respond preferentially to an oriented bar moving in a specific direction.
+Aperture problem: observation of small portion of larger stimulus leads to misleading information about direction of movement.
+Activity of a single complex cell does not provide accurate information about direction of movement.
+Motion from a Single Neuron’s Point of View (cont'd.)
+
+
+Motion from a Single Neuron’s Point of View (cont'd.)
+
+
+Solving the Aperture Problem
+Aperture problem:
+Viewing only a small portion of a larger stimulus can result in misleading information about the direction in which the stimulus is moving.
+
+Solving the Aperture Problem (cont'd.)
+
+
+
+
+Motion and the Human Body
+Apparent motion of the body
+Biological motion: movement of person or other living organism
+Point-light walker stimulus: biological motion is made by placing lights in specific places on a person.
+Structure-from-motion takes place with point-light walkers.
+Neurological studies show biological motion is processed by STS and FFA.
+Motion and the Human Body (cont'd.)
+
+
+Motion and the Human Body (cont'd.)
+Grossman et al.
+Participants viewed point-light stimuli for activities.
+The task was to determine whether motion was biological or scrambled.
+Noise was added to dots so they could only achieve 71% accuracy.
+Transcranial magnetic stimulation applied to STS caused a decrease in the ability to detect biological motion.
+Motion and the Human Body (cont'd.)
+
+
+
+Motion and the Human Body (cont'd.)
+
+
+
+Motion and the Human Body (cont'd.)
+
+
+
+Motion Responses to Still Pictures
+Implied motion are still pictures that depict an action that involves motion.
+Representational momentum: observers show that the implied motion is carried out in the observer’s mind.
+
+Motion Responses to Still Pictures (cont'd.)
+
+
+
+Motion Responses to Still Pictures (cont'd.)
+Experiment by Kourtzi and Kanwisher
+fMRI response was measured in MT and MST to pictures with:
+Implied motion
+No-implied motion
+At rest
+Houses
+Results showed areas of brain responsible for motion fire in response to pictures of implied motion.
+Motion Responses to Still Pictures (cont'd.)
+
+
+
+Motion Preference Amongst Newborn Babies
+Perception of biological motion may not depend on visual experience.
+Vallortigara and his coworkers (2005) examined the preferences of newly hatched chicks for different types of motion.
+
+ 

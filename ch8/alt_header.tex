@@ -1,0 +1,69 @@
+%% header.tex
+%%
+%% Copyright (C) 2016  Dirk Eddelbuettel
+%%
+%% This file is part of samples-rmarkdown-metropolis repository.
+%%
+%% samples-rmarkdown-metropolis is free software: you can redistribute it
+%% and/or modify it under the terms of the GNU General Public License as
+%% published by the Free Software Foundation, either version 2 of the
+%% License, or (at your option) any later version.
+%%
+%% samples-rmarkdown-metropolis is distributed in the hope that it will be
+%% useful, but WITHOUT ANY WARRANTY; without even the implied warranty of
+%% MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General
+%% Public License for more details.
+%%
+%% You should have received a copy of the GNU General Public License
+%% along with Rcpp.  If not, see <http://www.gnu.org/licenses/>.
+
+%% If you have the Fira font installed, to actually have it used it 
+%% via rmarkdown you need to declare it here 
+\usepackage{FiraSans}
+%\setsansfont[ItalicFont={Fira Sans Light Italic},BoldFont={Fira Sans},BoldItalicFont={Fira Sans Italic}]{Fira Sans Light}
+%\setmonofont[BoldFont={Fira Mono Medium}]{Fira Mono}
+
+%% You can set various Metropolis options via \metroset{} here
+\metroset{progressbar=frametitle, numbering=fraction}
+
+%% You can redefine colours, mostly by borrowing from Beamer
+\setbeamercolor{frametitle}{bg=blue}
+
+%% You also use hyperref, and pick colors 
+\hypersetup{colorlinks,citecolor=blue,filecolor=blue,linkcolor=blue,urlcolor=blue}
+
+%% when rendered with rmarkdown, somehow the unicode char for the dot
+%% disappears so we redefine it here
+\renewcommand{\textbullet}{$\cdot$}
+%\renewcommand{\itembullet}{▸}   % unicode U+25b8 'black right pointing small triangle'
+
+%% The institute macro puts a small line for affiliation at the bottom
+\institute{Department of Psychology, University of Florida} 
+
+%% We can also place a logo
+%\titlegraphic{\hfill\includegraphics[height=2cm]{UF.png}}
+
+\setbeamertemplate{caption}[default]
+\setbeamertemplate{caption label separator}[space]
+
+\setbeameroption{hide notes}
+
+\usepackage{pgfpages}
+\usepackage{handoutWithNotes}
+\pgfpagesuselayout{4 on 1 with notes}[a4paper,border shrink=5mm]
+
+\newcommand{\begincols}[1]{\begin{columns}{#1}} 
+\newcommand{\stopcols}{\end{columns}}
+
+%\def\begincols{\begin{columns}} 
+%\def\endcols{\begin{columns}} 
+%\def\begincol{\begin{column}} 
+%\def\endcol{\begin{column}} 
+
+%\captionsetup{labelformat=empty,labelsep=none}
+%\setbeameroption{show notes on second screen= location }
+
+%%% Local Variables:
+%%% mode: latex
+%%% TeX-master: t
+%%% End:
