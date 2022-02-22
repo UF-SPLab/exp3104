@@ -168,7 +168,7 @@ class: inverse, center, middle
 # Walking
 - **Visual direction strategy**: observers keep their body pointed toward a target
     - Walkers correct when target drifts to left or right.
-- Blind walking experiments show that people can navigate without any visual stimulation from the environment.
+- **Blind walking experiments** show that people can navigate without any visual stimulation from the environment.
 
 
 ![:positionImage 32%, 10%, 0deg, 700px](fig_7_7ab.png)
@@ -231,7 +231,7 @@ class: inverse, center, middle
 # Wayfinding
 ![:hline]()
 ### Discuss the role of landmarks in wayfinding, <br/> and the Gibsonian term “affordances”.
-### Identify the neurons and brain areas that are believed to be responsible for navigation, and discuss findings from patients with brain damage in relation to wayfinding and affordances.
+### Identify the neurons and brain areas that are believed to be responsible for navigation
 
 
 ---
@@ -271,13 +271,24 @@ Figure 7.11 (a & b) Two locations in the “virtual museum” viewed by Janzen a
 ---
 
 # The Brain's "GPS"
-- Tolman's experiments with rat in a maze
-    - Rat created a cognitive map.
-- O'Keefe
-    - **Place cells**
-    - **Place field**
-- Moser and Moser 
-    - **Grid cells**
+### Nobel Prize in Medicine or Physiology 2014
+
+.pull-left[
+Moser and Moser 
+- **Grid cells**
+]
+
+.pull-right[
+O'Keefe
+- **Place cells**
+]
+
+
+![:positionImage 12%, 80%, 0deg, 120px](Nobel_Prize.png)
+![:positionImage  35%, 30%, 0deg, 350px](grid_place.png)
+![:positionImage  55%, 68%, 0deg, 275px](place.png)
+![:positionImage  55%, 0%, 0deg, 275px](grid.png)
+
 
 ---
 
@@ -308,8 +319,26 @@ Figure 7.13 A record similar to those O’Keefe produced by recording from neuro
 
 <iframe width="530" height="315" src="https://www.youtube.com/embed/Vf_m65MLdLI?cc_load_policy=1&start=300" title="YouTube video player" frameborder="10" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-> .font70["while I'm working I hear in the background I hear this it's the sound
- that the brain makes when the animal is moving I hear play cells firing as though the animal is running well I'm a little bit concerned I think we may be the a the rats making a break for it I turn around and fortunately rat is not screwing now you know off toward the door no the animals asleep he's sound asleep what I'm hearing is REM sleep rapid eye movement sleep or what you think of as dream sleep the rat is dreaming he's dreaming of running on this track well this is wasn't I wasn't doing this experiment to study sleep and dreaming but there clearly is something surprising here so immediately I start going to look at this data during sleep and what I find is indeed during sleep immediately after running on one of these mazes these patterns that you see here reappear they're reactivated during sleep and in REM sleep indeed the animal is running the place cells are firing the animal is dreaming about running on the track so I have me that immediately thought I need to understand what's going on during sleep"]
+> "While I'm working I hear in the background, I hear this it's the sound that the brain makes when the animal is moving. I hear place cells firing as though the animal is running. Well I'm a little bit concerned I think we may be the a the rats making a break for it I turn around, and fortunately rat is not scurrying, you know off toward the door." 
+
+---
+
+# Place Cells
+
+
+<iframe width="530" height="315" src="https://www.youtube.com/embed/Vf_m65MLdLI?cc_load_policy=1&start=300" title="YouTube video player" frameborder="10" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+> "No, the animals asleep he's sound asleep. What I'm hearing is REM sleep rapid eye movement sleep, or what you think of as dream sleep. The rat is dreaming he's dreaming of running on this track. Well this wasn't - I wasn't doing this experiment to study sleep and dreaming, but there clearly is something surprising here."
+
+
+---
+
+# Place Cells
+
+
+<iframe width="530" height="315" src="https://www.youtube.com/embed/Vf_m65MLdLI?cc_load_policy=1&start=300" title="YouTube video player" frameborder="10" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+> "So, immediately, I start going to look at this data during sleep. And, what I find is indeed during sleep, immediately after running on one of these mazes. These patterns that you see here reappear. They're reactivated during sleep and in REM sleep indeed the animal is running. The place cells are firing. The animal is dreaming about running on the track. So, I immediately thought - 'I need to understand what's going on during sleep!'"
 
 ???
 
@@ -457,8 +486,12 @@ class: inverse, center, middle
 Figure 7.20 Response of a mirror neuron. (a) Response to watching the experimenter grasp food on the tray. (b) Response when the monkey grasps the food. (c) Response to watching the experimenter pick up food with a pair of pliers
 
 ---
+# Mirroring Others' Actions in the Brain
 
-https://www.youtube.com/embed/yacL60710hg?start=274
+.pull-left[![](mirror1a.png)]
+.pull-right[![](mirror1b.png)]
+
+[https://www.youtube.com/embed/yacL60710hg?start=274](https://www.youtube.com/embed/yacL60710hg?start=274)
 
 ---
 
