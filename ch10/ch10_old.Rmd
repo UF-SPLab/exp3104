@@ -1,0 +1,342 @@
+---
+title: "Sensory Processes"
+subtitle: "📕🔬📓<br/>Welcome to EXP3104"
+author: "Instructor: Ryan Mears, PhD"
+date: "ber , 2017"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: ["libs/remark-css/paper_class.css"]
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+class: inverse, center, middle
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+Chapter 10 
+Perceiving Depth and Size
+Perceiving Depth and Size
+
+
+Perceiving Depth
+Cue approach to depth perception:
+Focuses on information in the retinal image that is correlated with depth in the scene
+Occlusion
+We learn the connection between the cue and depth.
+The association becomes automatic through repeat exposure.
+Perceiving Depth (cont'd.)
+
+
+
+Oculomotor Cues
+Oculomotor cues are based on sensing the position of the eyes and muscle tension.
+Convergence: inward movement of the eyes when we focus on nearby objects.
+Accommodation: the shape of the lens changes when we focus on objects at different distances.
+
+Oculomotor Cues (cont'd.)
+
+
+
+Monocular Cues
+Monocular cues come from one eye
+Pictorial cues: sources of depth information that come from 2-D images, such as pictures
+Occlusion: when one object partially covers another
+Relative height: objects below the horizon that are higher in the field of vision are more distant.
+Objects above the horizon lower in the visual field are more distant.
+Monocular Cues (cont'd.)
+Relative size: when objects are equal size, the closer one will take up more of your visual field.
+Perspective convergence: parallel lines appear to come together in the distance.
+Familiar size: distance information is based on our knowledge of object size.
+
+Monocular Cues (cont'd.)
+
+
+Monocular Cues (cont'd.)
+Atmospheric perspective: distance objects are fuzzy and have a blue tint.
+Texture gradient: equally spaced elements are more closely packed as distance increases.
+Shadows: indicate where objects are located
+Enhance 3-D of objects
+Monocular Cues (cont'd.)
+
+
+Monocular Cues (cont'd.)
+
+
+Monocular Cues (cont'd.)
+
+
+Monocular Cues (cont'd.)
+
+
+Monocular Cues (cont'd.)
+
+
+Monocular Cues (cont'd.)
+
+
+Motion-Produced Cues
+Motion parallax: close objects in direction of movement glide rapidly past but objects in the distance appear to move slowly.
+Deletion and accretion: objects are covered or uncovered as we move relative to them.
+Covering an object: deletion
+Uncovering an object is accretion
+Motion-Produced Cues (cont'd.)
+
+
+Motion-Produced Cues (cont'd.)
+
+
+Binocular Depth Information
+Stereoscopic depth perception
+Depth perception created by input from both eyes
+
+
+
+Binocular Depth Information (cont'd.)
+
+
+
+
+
+
+Seeing Depth With Two Eyes
+Differences between 2D and 3D movies
+“Stereo Sue”
+Strabismus
+
+
+
+
+Seeing Depth With Two Eyes (cont'd.)
+
+
+
+
+
+
+Binocular Disparity
+Binocular disparity: difference in images from two eyes
+Difference can be described by examining corresponding points on the two retinas.
+The horopter: imaginary sphere that passes through the point of focus
+Objects on the horopter fall on corresponding points on the two retinas.
+
+
+
+Binocular Disparity (cont'd.)
+Objects that do not fall on the horopter fall on noncorresponding points
+These points make disparate images.
+The angle between these points is the absolute disparity.
+The amount of disparity indicates how far an object is from the horopter.
+Relative disparity is the difference between the absolute disparity of two objects.
+
+Binocular Disparity (cont'd.)
+
+
+
+Binocular Disparity (cont'd.)
+
+
+
+Disparity (Geometrical) Created Stereopsis (Perceptual)
+Stereopsis: depth information provided by binocular disparity
+Stereoscope uses two pictures from slightly different viewpoints.
+Random-dot stereogram has two identical patterns with one shifted in position.
+Disparity (Geometrical) Created Stereopsis (Perceptual) (cont'd.)
+
+
+The Correspondence Problem
+How does the visual system match images from the two eyes?
+Matches may be made by specific features of objects.
+This may not work for objects like random-dot stereograms.
+A satisfactory answer has not yet been proposed.
+The Physiology of Binocular Depth Perception
+Neurons have been found that respond best to binocular disparity.
+These are called binocular depth cells or disparity selective cells.
+These cells respond best to a specific degree of absolute disparity between images on the right and left retinas.
+Disparity tuning curve
+
+The Physiology of Binocular Depth Perception (cont'd.)
+
+
+The Physiology of Binocular Depth Perception (cont'd.)
+Experiment by Blake and Hirsch
+Cats were reared by alternating vision between two eyes.
+Results showed that they:
+Had few binocular neurons
+Were unable to use binocular disparity to perceive depth
+
+The Physiology of Binocular Depth Perception (cont'd.)
+Experiment by DeAngelis et al.
+A monkey was trained to indicate depth from disparate images.
+Disparity-selective neurons were activated by this process.
+Experimenter used microstimulation to activate different disparity-selective neurons.
+The monkey shifted judgment to the artificially stimulated disparity.
+The Physiology of Binocular Depth Perception (cont'd.)
+
+
+
+Perceiving Size
+Distance and size perception are interrelated.
+Experiment by Holway and Boring
+Observer was at the intersection of two hallways.
+A luminous test circle was in the right hallway placed from 10 to 120 feet away.
+A luminous comparison circle was in the left hallway at 10 feet away.
+
+
+Perceiving Size (cont'd.)
+On each trial, the observer was to adjust the diameter of the test circle to match the comparison.
+Test stimuli all had same visual angle (angle of object relative to the observer’s eye).
+Visual angle depends on both the size of the object and the distance from the observer.
+Perceiving Size (cont'd.)
+Part 1 of the experiment provided observers with depth cues.
+Judgments of size were based on physical size.
+Part 2 of the experiment provided no depth information.
+Judgments of size were based on size of the retinal images.
+
+Perceiving Size (cont'd.)
+
+
+
+Perceiving Size (cont'd.)
+
+
+
+Size Constancy
+Perception of an object’s size remains relatively constant.
+This effect remains even if the size of the retinal image changes.
+Size-distance scaling equation
+S = K (R X D)
+The changes in distance and retinal size balance each other.
+Size Constancy (cont'd.)
+Emmert’s law:
+Retinal size of an afterimage remains constant.
+Perceived size will change depending on distance of projection.
+This follows the size-distance scaling equation.
+Size Constancy (cont'd.)
+
+
+
+Size Constancy (cont'd.)
+
+
+
+Size Constancy (cont'd.)
+
+
+
+Visual Illusions
+Some illusions can be explained by the connection between the perception of size and the perception of depth.
+The Müller-Lyer illusion
+Straight lines with inward fins appear shorter than straight lines with outward fins.
+Lines are actually the same length.
+
+Visual Illusions (cont'd.)
+
+
+
+The Müller-Lyer Illusion
+Why does this illusion occur?
+Misapplied size-constancy scaling:
+Size constancy scaling that works in 3-D is misapplied for 2-D objects.
+Observers unconsciously perceive the fins as belonging to outside and inside corners.
+Outside corners would be closer and inside corners would be further away.
+The Müller-Lyer Illusion (cont'd.)
+
+
+
+The Müller-Lyer Illusion (cont'd.)
+Explanation:
+Since the retinal images are the same, the lines must be different sizes.
+Problems with this explanation:
+The “dumbbell” version shows the same perception even though there are no “corners.”
+The illusion also occurs for some 3-D displays.
+
+The Müller-Lyer Illusion (cont'd.)
+Another possible explanation:
+Conflicting cues theory: our perception of line length depends on:
+The actual length of the vertical lines
+The overall length of the figure
+The conflicting cues are integrated into a compromise perception of the length.
+The Ponzo Illusion
+Horizontal rectangular objects are placed over railroad tracks in a picture.
+The far rectangle appears larger than the closer rectangle but both are the same size.
+One possible explanation is misapplied size-constancy scaling.
+The Ponzo Illusion (cont’d.)
+
+
+The Ames Room
+Two people of equal size appear very different in size in this room.
+The room is constructed so that:
+The shape looks like a normal room when viewed with one eye
+The actual shape has the left corner twice as far away as the right corner
+The Ames Room (cont'd.)
+
+
+
+The Ames Room (cont'd.)
+
+
+
+The Ames Room (cont'd.)
+One possible explanation: size-distance scaling
+Observer thinks the room is normal.
+Women would be at same distance.
+Woman on the left has smaller visual angle (R).
+Due to the perceived distance (D) being the same, her perceived size (S) is smaller.
+
+The Ames Room (cont'd.)
+Another possible explanation: relative size
+Perception of size depends on size relative to other objects.
+One woman fills the distance between the top and bottom of the room.
+The other woman only fills part of the distance.
+Thus, the woman on the right appears taller.
+The Moon Illusion
+The moon appears larger on the horizon than when it is higher in the sky.
+One possible explanation:
+Apparent-distance theory: horizon moon is surrounded by depth cues while the moon higher in the sky has none.
+The horizon is perceived as further away than the sky, and called “flattened heavens”.
+The Moon Illusion (cont'd.)
+Explanation:
+Since the moon in both cases has the same visual angle, it must appear larger at the horizon.
+Another possible explanation:
+Angular size-contrast theory: the moon appears smaller when surrounded by larger objects.
+Thus, the large expanse of the sky makes it appear smaller.
+Actual explanation may be a combination of a number of cues.
+The Moon Illusion (cont'd.)
+
+
+
+The Moon Illusion (cont'd.)
+
+
+
+Depth Perception Across Species
+Animals use the range of cues that humans use.
+Frontal eyes, which result in overlapping fields of view, are necessary for binocular disparity.
+Lateral eyes, which do not result in overlapping fields of view, provide a wider view.
+This is important for watching for predators.
+Depth Perception Across Species (cont'd.)
+
+
+
+
+Depth Perception Across Species (cont'd.)
+Locusts use motion parallax to judge distance.
+Bats use echolocation to judge the distance of objects in the dark.
+They emit sounds and note the interval between when they send them and when they receive the echo.
+Depth Perception Across Species (cont'd.)
+
+
+
+Infant Depth Perception
+Binocular disparity becomes functional early.
+Binocular disparity: binocularly fixate
+Pictorial depth cues become functional later.
+Depth from familiar size
+Depth from cast shadows
+
+ 

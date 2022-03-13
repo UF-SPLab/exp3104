@@ -1,0 +1,271 @@
+---
+title: "Sensory Processes"
+subtitle: "📕🔬📓<br/>Welcome to EXP3104"
+author: "Instructor: Ryan Mears, PhD"
+date: "ber , 2017"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: ["libs/remark-css/paper_class.css"]
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+class: inverse, center, middle
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+Chapter 15 
+The Chemical Senses
+The Function of Chemical Senses
+“Gatekeepers” of the body:
+Identify things that should be consumed for survival
+Detect things that would be harmful and should be rejected
+Cause good and bad affective responses
+
+Basic Taste Qualities
+Five basic taste qualities
+Salty
+Sour
+Sweet
+Bitter
+Umami: described as meaty, brothy or savory, and associated with MSG
+Basic Taste Qualities (cont'd.)
+
+
+Connections Between Taste Quality and a Substance’s Effect
+Sweetness is usually associated with substances that have nutritive value.
+Bitter is usually associated with substances that are potentially harmful.
+Salty taste indicates the presence of sodium.
+However, there is not a perfect connection between tastes and function of substances.
+Structure of the Taste System
+Tongue contains papillae
+Filiform: shaped like cones and located over entire surface
+Fungiform: shaped like mushrooms and found on sides and tip
+Foliate: series of folds on back and sides
+Circumvilliate: shaped like flat mounds in a trench located at back
+Structure of the Taste System (cont'd.)
+
+
+Structure of the Taste System (cont'd.)
+
+
+Structure of the Taste System (cont'd.)
+Taste buds are located in papillae except for filiform.
+Tongue contains approximately 10,000 taste buds.
+Each taste bud has 50-100 taste cells with tips that extend into the taste pore.
+Transduction occurs when chemicals contact the receptor sites on the tips.
+Structure of the Taste System (cont'd.)
+
+
+Structure of the Taste System (cont'd.)
+
+
+Structure of the Taste System (cont'd.)
+Signals from taste cells travel along a set of pathways.
+Chorda tympani nerve from front and sides of tongue
+Glossopharyngeal nerve from back of tongue
+Vagus nerve from mouth and throat
+Superficial petronasal nerve from soft palate
+Structure of the Taste System (cont'd.)
+These pathways make connections in the nucleus of the solitary tract in the spinal cord.
+Then, they travel to the thalamus.
+Followed by areas in the frontal lobe:
+Insula
+Frontal opervulum cortex
+Orbital frontal cortex
+Population Coding
+Experiment by Erickson
+Different taste stimuli were presented to rats, and recordings were made from the chorda tympani.
+Across-fiber patterns showed that two substances (ammonium chloride and potassium chloride) are similar to each other but different from sodium chloride.
+Population Coding (cont'd.)
+Specificity Coding
+Experiment by Mueller et al.
+Genetic cloning was used to determine if mice could be created that possessed a human receptor that responds to PTC.
+Normally, mice don’t have this receptor or respond to this substance.
+The experiment was successful, but not all data show the same results.
+Specificity Coding (cont'd.)
+
+
+Specificity Coding (cont'd.)
+Applying amiloride to the tongue blocks flow of sodium to taste receptors.
+Causes decrease in the responding of neurons in rat’s brainstem that respond to salt, but not to those that respond to salty and bitter.
+Specificity Coding (cont'd.)
+Specificity Coding (cont'd.)
+Evidence exists for both specificity and population coding but balance is shifting toward specificity.
+Some researchers suggest that the neural system for taste may function like the visual system for color.
+Currently, there is no agreed upon explanation for the neural system for taste.
+Individual Differences in Taste
+There are different responses to phenylthiocarbamide (PTC) and to 6-n-propylthiouracil (PROP):
+Tasters, nontasters, and supertasters
+Tasters have more taste buds than nontasters.
+Tasters have specialized receptors for these compounds.
+Supertasters appear more sensitive to bitter substances than tasters.
+The Functions of Olfaction
+Many animals are macrosmatic: having a keen sense of smell that is necessary for survival
+Humans are microsmatic: a less keen sense of smell that is not crucial to survival
+Singh and Bronstad: showed a relationship between men’s rating of women’s body odors and the women’s menstrual cycle
+Detecting Odors
+Measuring the detection threshold
+Yes/no procedure: participants are given trials with odors along with “blank” trials.
+They respond by saying yes or no.
+This can result in bias in terms of when the participant decides to respond.
+Forced-choice: two trials are given, one with odorant and one without.
+Participant indicates which smells strongest.
+Detecting Odors (cont'd.)
+Rats are 8 to 50 times more sensitive to odors than humans.
+Dogs are 300 to 10,000 times more sensitive.
+However, individual receptors for all of these animals are equally sensitive.
+The difference lies in the number of receptors they each have.
+Humans have ten million and dogs have one billion olfactory receptors.
+Detecting Odors (cont'd.)
+
+
+Identifying Odors
+Humans can discriminate more than one trillion different odors.
+Find it difficult to identify odors
+Only successful half of the time
+The Puzzle of Olfactory Quality
+Researchers have found it difficult to map perceptual experience onto physical attributes of odorants.
+There is no specific language for odor quality.
+Some molecules that have similar structure smell different, and some that have different structures smell the same.
+Links have been found between the structure of molecules, olfactory quality, and patterns of activation in the olfactory system.
+
+The Puzzle of Olfactory Quality (cont'd.)
+
+
+The Puzzle of Olfactory Quality (cont'd.)
+
+
+The Olfactory Mucosa
+Olfactory mucosa is located at the top of the nasal cavity.
+Odorants are carried along the mucosa coming in contact with the olfactory receptor neurons (ORN).
+These neurons contain molecules called olfactory receptors.
+Humans have about 350 types of receptors that each have a protein that crosses the membrane seven times.
+The Olfactory Mucosa (cont'd.)
+
+
+How Olfactory Receptor Neurons Respond to Odorants
+Calcium imaging method
+Concentration of calcium increases inside the ORN when an olfactory receptor responds.
+Calcium can be detected by using a chemical that makes the neuron fluoresce.
+Measuring the decrease in fluorescence indicates the strength of the response.
+How Olfactory Receptor Neurons Respond to Odorants (cont'd.)
+Combinatorial code for odor
+Proposed by Malnic et al. from results of calcium imaging experiments
+Odorants are coded by patterns of activation of olfactory receptors called recognition profiles.
+Molecules that have similar structures but smell different have different recognition profiles.
+How Olfactory Receptor Neurons Respond to Odorants (cont'd.)
+
+
+How Olfactory Receptor Neurons Respond to Odorants (cont'd.)
+
+
+The Search for Order in the Olfactory Bulb
+Signals are carried to the glomeruli in the olfactory bulb.
+ORNs of a particular type send their signals to one or two glomeruli.
+Two techniques have been used to determine how the glomeruli respond to different odorants.
+Optical imaging method
+2-deoxyglucose (2DG) technique
+
+The Search for Order in the Olfactory Bulb (cont'd.)
+
+
+
+The Search for Order in the Olfactory Bulb (cont'd.)
+Optical imaging method
+Cortical cells consume oxygen when activated.
+Red light is used to determine the amount of oxygen in the cells.
+Less oxygen reflects less red light.
+Measuring the amount of light reflected reveals which areas of cortex are most active.
+The Search for Order in the Olfactory Bulb (cont'd.)
+2-deoxyglucose (2DG) technique
+2DG, which contains glucose, is injected into an animal.
+Animal is exposed to different chemicals.
+Neural activation is measured by amount of radioactivity present.
+This technique, used with behavioral testing, shows the pattern of neural activation is related to both chemical structure and to perception.
+The Search for Order in the Olfactory Bulb (cont'd.)
+
+
+
+Representing Odors in the Cortex
+Signals from the olfactory bulb are sent to:
+Primary olfactory (piriform) cortex in the temporal lobe and amygdala
+Amygdala plays a role in emotional reactions to odors.
+Then to secondary olfactory (orbitofrontal) cortex in the frontal lobe
+
+
+Representing Odors in the Cortex (cont'd.)
+
+
+
+
+How Odorants Are Represented in the Piriform Cortex
+Experiment by Rennaker
+Used multiple electrodes to measure neural responding in the piriform cortex and found that isoamyl acetate causes activation across the cortex
+
+How Odorants Are Represented in the Piriform Cortex (cont'd.)
+
+
+
+How Odor Objects Are Represented
+Experiment by Wilson
+Measured response of neurons in the rat’s piriform cortex to two odorants
+A mixture: isoamyl acetate and peppermint
+A compound: isoamyl acetate alone
+Results showed that with enough exposure, the piriform cortex could discriminate between the mixture and the compound.
+How Odor Objects Are Represented (cont'd.)
+
+
+The Perception of Flavor
+Combination of smell, taste, and other sensations (such as burning of hot peppers)
+Odor stimuli from food in the mouth reaches the olfactory mucosa through the retronasal route.
+The taste of most compounds is influenced by olfaction, but a few, such as MSG are not.
+The Perception of Flavor (cont'd.)
+
+
+
+The Perception of Flavor (cont'd.)
+
+
+
+Taste and Olfaction Meet in the Nervous System
+Responses from taste and smell are first combined in the orbital frontal cortex (OFC).
+Interactions between taste, olfaction, vision and touch underscore multimodal nature of our experience of flavor.
+What are bimodal neurons?
+Taste and Olfaction Meet in the Nervous System (cont'd.)
+
+
+Flavor Is Influenced by Cognitive Factors
+Plassmann experiment
+Judging taste pleasantness of wine
+The higher the price of the wine label, the more pleasant the rating
+Flavor Is Influenced by Cognitive Factors (cont'd.)
+
+
+Flavor Is Influenced by Food Intake: Sensory-Specific Satiety
+O’Doherty experiment
+Both the pleasantness of a food-related odor and the brain’s response to an odor can be influenced by satiety.
+
+
+Flavor Is Influenced by Food Intake: Sensory-Specific Satiety (cont'd.)
+
+
+
+
+The Proust Effect: Memories, Emotions, and Smell
+Smell can induce memory recall.
+Proust effect: the ability of taste and olfaction to unlock memories
+
+
+Infant Chemical Sensitivity
+The question is – do newborn infants perceive odors and tastes?
+Steiner found that newborns can smell and discriminate between different olfactory stimuli.
+Newborns can discriminate sweet, sour, and bitter stimuli
+Mennella experiment: used combination of carrot juice and water to study infant preferences
+
+
+ 

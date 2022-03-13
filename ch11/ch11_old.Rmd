@@ -1,0 +1,312 @@
+---
+title: "Sensory Processes"
+subtitle: "📕🔬📓<br/>Welcome to EXP3104"
+author: "Instructor: Ryan Mears, PhD"
+date: "ber , 2017"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: ["libs/remark-css/paper_class.css"]
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+class: inverse, center, middle
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+Chapter 11 
+Hearing
+Physical and Perceptual Aspects of Sound
+Two definitions of “sound”
+Physical definition: pressure changes in the air or other medium
+Perceptual definition: the experience we have when we hear
+Sound as Pressure Changes
+Loud speakers produce sound through a process.
+The diaphragm of the speaker moves out, pushing air molecules together called condensation.
+The diaphragm also moves in, pulling the air molecules apart called rarefaction.
+The cycle of this process creates alternating high- and low-pressure regions that travel through the air.
+Sound as Pressure Changes (cont'd.)
+
+
+
+Pure Tones
+Pure tone: created by a sine wave
+Amplitude: difference in pressure between high and low peaks of wave
+Perception of amplitude is known as loudness.
+Decibel (dB) is used as the measure of loudness.
+Number of dB = 20 logarithm(p/po).
+The decibel scale relates the amplitude of the stimulus with the psychological experience of loudness.
+
+Pure Tones (cont'd.)
+Frequency: number of cycles within a given time period
+Measured in Hertz (Hz): 1 Hz is one cycle per second.
+Perception of pitch is related to frequency.
+Tone height is the increase in pitch that happens when frequency is increased.
+
+Pure Tones (cont'd.)
+
+
+
+Pure Tones (cont'd.)
+
+
+
+Pure Tones (cont'd.)
+
+
+
+Pure Tones (cont'd.)
+
+
+
+Complex Tones and Frequency Spectra
+Both pure and some complex tones are periodic tones.
+Fundamental frequency is the repetition rate and is called the first harmonic.
+Periodic complex tones consist of a number of pure tones called harmonics.
+Additional harmonics are multiples of the fundamental frequency.
+Complex Tones and Frequency Spectra (cont'd.)
+Additive synthesis: process of adding harmonics to create complex sounds
+Frequency spectrum: display of harmonics of a complex sound
+
+Complex Tones and Frequency Spectra (cont'd.)
+
+
+
+Complex Tones and Frequency Spectra (cont'd.)
+
+
+
+Perceptual Aspects of Sound
+Loudness is the perceptual quality most closely related to the level or amplitude of an auditory stimulus.
+Decibels
+Audibility curve
+Auditory response area
+
+Perceptual Aspects of Sound (cont'd.)
+Human hearing range: 20 to 20,000 Hz
+Audibility curve: shows the threshold of hearing in relation to frequency
+Changes on this curve show that humans are most sensitive to 2,000 to 4,000 Hz.
+Auditory response area: falls between the audibility curve and the threshold for feeling.
+It shows the range of response for human audition.
+Perceptual Aspects of Sound (cont'd.)
+Equal loudness curves: determined by using a standard 1,000 Hz tone
+Two dB levels are used: 40 and 80
+Participants match the perceived loudness of all other tones to the 1,000 Hz standard.
+Resulting curves show that tones sound:
+At almost equal loudness at 80 dB
+Softer at 40 dB for high and low frequencies than the rest of the tones in the range
+Perceptual Aspects of Sound (cont'd.)
+
+
+
+Perceptual Aspects of Sound (cont'd.)
+
+
+
+Perceptual Aspects of Sound (cont'd.)
+Pitch – the perceptual quality we describe as high and low
+
+
+Perceptual Aspects of Sound (cont'd.)
+
+
+
+Perceptual Aspects of Sound (cont'd.)
+Timbre: all other perceptual aspects of a sound besides loudness, pitch, and duration
+It is closely related to the harmonics, attack, and decay of a tone.
+Effect of missing fundamental frequency
+Removal of the first harmonic results in a sound with the same perceived pitch, but with a different timbre.
+This is called periodicity pitch.
+
+Perceptual Aspects of Sound (cont'd.)
+
+
+
+
+Perceptual Aspects of Sound (cont'd.)
+Attack of tones: buildup of sound at the beginning of a tone
+Decay of tones: decrease in sound at end of tone
+From Pressure Changes to Electricity
+Outer ear: pinna and auditory canal
+Pinna helps with sound location.
+Auditory canal: tube-like 3 cm long structure
+Protects the tympanic membrane at the end of the canal
+The resonant frequency of the canal amplifies frequencies between 1,000 and 5,000 Hz.
+From Pressure Changes to Electricity (cont'd.)
+Middle ear
+Two cubic centimeter cavity separating inner from outer ear
+Contains the three ossicles
+Malleus: moves due to the vibration of the tympanic membrane
+Incus: transmits vibrations of malleus
+Stapes: transmits vibrations of incus to the inner ear via the oval window of the cochlea
+From Pressure Changes to Electricity (cont'd.)
+
+
+
+From Pressure Changes to Electricity (cont'd.)
+
+
+
+From Pressure Changes to Electricity (cont'd.)
+
+
+
+From Pressure Changes to Electricity (cont'd.)
+Functioning of ossicles
+Outer and inner ear are filled with air.
+Inner ear is filled with fluid that is much denser than air.
+Pressure changes in air transmit poorly into the denser medium.
+Ossicles act to amplify the vibration for better transmission to the fluid.
+Middle ear muscles dampen the ossicles’ vibrations to protect the inner ear from potentially damaging stimuli.
+From Pressure Changes to Electricity (cont'd.)
+Inner ear
+Main structure is the cochlea.
+Fluid-filled snail-like structure (35 mm long) set into vibration by the stapes
+Divided into the scala vestibuli and scala tympani by the cochlear partition
+Cochlear partition extends from the base (stapes end) to the apex (far end).
+Organ of Corti is contained by the cochlear partition.
+From Pressure Changes to Electricity (cont'd.)
+
+
+From Pressure Changes to Electricity (cont'd.)
+
+
+From Pressure Changes to Electricity (cont'd.)
+Key structures
+Basilar membrane vibrates in response to sound and supports the organ of Corti.
+Inner and outer hair cells are the receptors for hearing.
+Tectorial membrane extends over the hair cells.
+
+From Pressure Changes to Electricity (cont'd.)
+Transduction takes place through this process:
+Cilia bend in response to movement of organ of Corti and the tectorial membrane.
+Movement in one direction opens ion channels.
+Movement in the other direction closes the channels.
+This causes bursts of electrical signals.
+Békésy Discovers How the Basilar Membrane Vibrates
+Békésy’s Place Theory of Hearing
+Frequency of sound is indicated by the place on the organ of Corti that has the highest firing rate.
+Békésy determined this in two ways:
+Direct observation of the basilar membrane in cadavers
+Building a model of the cochlea using the physical properties of the basilar membrane
+Békésy Discovers How the Basilar Membrane Vibrates (cont'd.)
+Physical properties of the basilar membrane
+Base of the membrane (by stapes) is:
+Three to four times narrower than at the apex
+100 times stiffer than at the apex
+Both the model and direct observation showed that the vibrating motion of the membrane is a traveling wave.
+
+Békésy Discovers How the Basilar Membrane Vibrates (cont'd.)
+
+
+
+Békésy Discovers How the Basilar Membrane Vibrates (cont'd.)
+Envelope of the traveling wave
+Indicates the point of maximum displacement of the basilar membrane
+Hair cells at this point are stimulated the most strongly leading to the nerve fibers firing the most strongly at this location.
+Position of the peak is a function of frequency.
+The Cochlea Functions as a Filter
+Tonotopic map
+Frequency tuning curve
+Characteristic frequency
+The Cochlea Functions as a Filter (cont'd.)
+
+
+The Cochlea Functions as a Filter (cont'd.)
+
+
+The Cochlea Functions as a Filter (cont'd.)
+Tonotopic map
+Cochlea shows an orderly map of frequencies along its length.
+Apex responds best to low frequencies.
+Base responds best to high frequencies.
+The Cochlea Functions as a Filter (cont'd.)
+Neural frequency tuning curves
+Pure tones are used to determine the threshold for specific frequencies measured at single neurons.
+Plotting thresholds for frequencies results in tuning curves.
+Frequency to which the neuron is most sensitive is the characteristic frequency.
+
+Returning to the Outer Hair Cells: The Cochlear Amplifier
+Békésy used basilar membranes isolated from cadavers and his results showed no difference in response for close frequencies that people can distinguish.
+New research with live membranes shows that the entire outer hair cells respond to sound by slight tilting and a change in length.
+For this reason, these cells are called the cochlear amplifier.
+The Physiology of Pitch Perception
+Place theory: based on the relation between a sound’s frequency and the place along the basilar membrane that is activated.
+Amplitude modulated noise
+Amplitude modulation
+The Physiology of Pitch Perception (cont'd.)
+
+
+
+The Physiology of Pitch Perception (cont'd.)
+Phase locking
+Nerve fibers fire in bursts.
+Firing bursts happen at or near the peak of the sine-wave stimulus.
+Thus, they are “locked in phase” with the wave.
+Groups of fibers fire with periods of silent intervals creating a pattern of firing.
+The Physiology of Pitch Perception (cont'd.)
+Temporal coding-major mechanism of pitch perception
+Resolved harmonics
+Unresolved harmonics
+
+The Physiology of Pitch Perception (cont'd.)
+
+
+
+The Pathway to the Brain
+SONIC MG
+SON = superior olivary nucleus
+IC = inferior colliculus
+MG = medial geniculate nucleus
+Core area
+Belt area
+Parabelt area
+The Pathway to the Brain (cont'd.)
+
+
+The Pathway to the Brain (cont'd.)
+
+
+Pitch and the Brain
+There is a shift from earlier emphasis on the cochlea and the auditory nerve to research on the brain.
+Place coding is effective for the entire range of hearing.
+Temporal coding with phase locking is effective up to 5,000 Hz.
+
+Pitch and the Brain (cont'd.)
+
+
+
+Hearing Loss
+Presbycusis
+Greatest loss at high frequencies
+Affects males more severely than females
+Appears to be caused by exposure to damaging noises or drugs
+
+Hearing Loss (cont'd.)
+Noise-induced hearing loss
+Loud noise can severely damage the organ of Corti.
+OSHA standards for noise levels at work are set to protect workers.
+Leisure noise can also cause hearing loss.
+Hearing Loss (cont'd.)
+
+
+Cochlear Implants
+Electrodes are inserted into the cochlea to electrically stimulate auditory nerve fibers.
+The device is made up of:
+A microphone worn behind the ear
+A sound processor
+A transmitter mounted on the mastoid bone
+A receiver surgically mounted on the mastoid bone
+Cochlear Implants (cont'd.)
+
+
+Infant Hearing
+Olsho et al. (1988)
+Audibility curves
+DeCasper and Fifer (1980)
+Two-day old infants can recognize their mothers voice.
+ 

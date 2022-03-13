@@ -1,0 +1,47 @@
+
+
+/*body {margin: -25px;}*/
+
+.sidebar {grid-area: sidebar;}
+.sidebar1 {grid-area: sidebar1;}
+.sidebar2 {grid-area: sidebar2;}
+.content {grid-area: content;}
+.header {grid-area: header;}
+.foot {grid-area: foot;}
+
+    .wrapper1 {
+        display: grid;
+    grid-gap: 10px;
+        grid-template-columns: 300px repeat(auto-fill, minmax(1fr, 1fr 1fr 1fr 1fr 1fr));
+        grid-template-rows: repeat(auto-fill,  minmax(200px, 2fr));
+        grid-template-areas:
+    "header header content content content"
+        "sidebar1 sidebar2 content content content"
+        "foot foot foot foot foot";
+        /*background-color: #fff;
+        color: #444;*/
+    }
+
+    .wrapper2 {
+        display: grid;
+    grid-gap: 10px;
+        grid-template-columns: repeat(auto-fill, minmax(1fr, 1fr 1fr 1fr 1fr 1fr));
+        grid-template-areas: 
+    "header header content content content"
+        "sidebar sidebar content content content"
+        "foot foot foot foot foot";
+        /*background-color: #fff;
+        color: #444;*/
+    }
+
+
+.header,
+.foot {
+  background-color: #999;
+}
+
+.header * > img {object-fit: contain; max-height: 100%; max-width: 100%; overflow: hidden; }
+.sidebar * > img {object-fit: contain; max-height: 300px; max-width: 100%; overflow: hidden; }
+.sidebar1 * > img {object-fit: contain; max-height: 300px; max-width: 100%; overflow: hidden; }
+.sidebar2 * > img {object-fit: contain; justify-self: center;  max-height: 300px; max-width: 100%; overflow: hidden; }
+.content * > img {object-fit: contain; max-height: 450px; max-width: 100%;  overflow: hidden; }

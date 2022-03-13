@@ -1,0 +1,318 @@
+---
+title: "Sensory Processes"
+subtitle: "📕🔬📓<br/>Welcome to EXP3104"
+author: "Instructor: Ryan Mears, PhD"
+date: "ber , 2017"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: ["libs/remark-css/paper_class.css"]
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+class: inverse, center, middle
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+Chapter 12 
+Hearing II:
+Location and Organization
+Comparing Location Information for Vision and Hearing
+
+
+
+Auditory Localization
+Auditory space: surrounds an observer and exists wherever there is sound
+Researchers study how sounds are localized in space by using:
+Azimuth coordinates: position left to right
+Elevation coordinates: position up and down
+Distance coordinates: position from observer
+Auditory Localization (cont'd.)
+
+
+Auditory Localization (cont'd.)
+On average, people can localize sounds:
+Directly in front of them most accurately
+To the sides and behind their heads least accurately
+Location cues are not contained in the receptor cells like on the retina in vision; thus, location for sounds must be calculated.
+Binaural Cues for Sound Localization
+Binaural cues: location cues based on the comparison of the signals are received by the left and right ears.
+Interaural time difference (ITD): difference between the times that sounds reach the two ears
+When distance to each ear is the same, there are no differences in time.
+When the source is to the side of the observer, the times will differ.
+
+Binaural Cues for Sound Localization (cont'd.)
+
+
+
+Binaural Cues for Sound Localization (cont'd.)
+Interaural level difference (ILD): difference in sound pressure level reaching the two ear
+Reduction in intensity occurs for high frequency sounds for the far ear.
+The head casts an acoustic shadow.
+This effect does not occur for low frequency sounds.
+Cone of confusion
+Binaural Cues for Sound Localization (cont'd.)
+
+
+
+Monaural Cue for Localization
+Monaural cue: uses information from one ear
+The pinna and head affect the intensities of frequencies.
+Measurements have been performed by placing small microphones in ears and comparing the intensities of frequencies with those at the sound source.
+This is a spectral cue since the information for location comes from the spectrum of frequencies.
+Monaural Cue for Sound Location (cont'd.)
+
+
+Monaural Cue for Sound Location (cont'd.)
+ILD and ITD are not effective for judgments on elevation since in many locations they may be zero.
+Experiment investigating spectral cues
+Listeners were measured for performance locating sounds differing in elevation.
+They were then fitted with a mold that changed the shape of their pinnae.
+
+
+Monaural Cue for Sound Location (cont'd.)
+Right after the molds were inserted, performance was poor for elevation but was unaffected for azimuth.
+After 19 days, performance for elevation was close to original performance.
+Once the molds were removed, performance stayed high.
+This suggests that there might be two different sets of neurons—one for each set of cues.
+Monaural Cue for Sound Location (cont'd.)
+
+
+Monaural Cue for Sound Location (cont'd.)
+
+
+The Physiology of Auditory Localization
+Jeffress Neural Coincidence Model
+Neurons are wired so they each receive signals from the two ears.
+Coincidence detectors
+ITD detectors
+ITD tuning curves
+The Physiology of Auditory Localization (cont'd.)
+
+
+
+
+
+
+
+
+
+
+
+Broad ITD Tuning Curves in Mammals
+Broadly-tuned ITD neurons
+Research on gerbils indicates that neurons in the left hemisphere respond best to sound from the right, and vice versa.
+Location of sound is indicated by the ratio of responding for two types of neurons.
+This is a distributed coding system.
+Broad ITD Tuning Curves in Mammals (cont'd.)
+
+
+
+Cortical Mechanisms of Location
+Area A1 is involved in locating sound.
+Neff’s research on cats
+Posterior belt area is involved in locating sound.
+Recanzone’s research on monkey neurons
+Anterior belt is involved in perceiving sound.
+
+
+Cortical Mechanisms of Location (cont'd.)
+
+
+
+
+Cortical Mechanisms of Location (cont'd.)
+
+
+
+
+Cortical Mechanisms of Location (cont'd.)
+
+
+
+
+Cortical Mechanisms of Location (cont'd.)
+
+
+
+
+What and Where Auditory Pathways
+What, or ventral stream, starts in the anterior portion of the core and belt and extends to the prefrontal cortex – used to identify sounds.
+Where, or dorsal stream, starts in the posterior core and belt and extends to the parietal and prefrontal cortices –  used to locate sounds.
+Evidence from neural recordings, brain damage, and brain scanning support these findings.
+Hearing Inside Rooms
+Direct sound: sound that reaches the listener’s ears straight from the source
+Indirect sound: sound that is reflected off of environmental surfaces and then to the listener
+When a listener is outside, most sound is direct; however inside a building, there is direct and indirect sound.
+Hearing Inside Rooms (cont'd.)
+
+
+
+Perceiving Two Sounds That Reach the Ears at Different Times
+Experiment by Litovsky et al.
+Listeners sat between two speakers: a lead speaker and a lag speaker.
+When sound comes from the lead speaker followed by the lag speaker with a long delay, listeners hear two sounds.
+When the delay is decreased to 5:20 msec, listeners hear the sound as only coming from the lead speaker: the precedence effect.
+Perceiving Two Sounds That Reach the Ears at Different Times (cont'd.)
+
+
+Architectural Acoustics
+The study of how sounds are reflected in rooms
+Factor that affects perception in concert halls
+Reverberation time: the time it takes sound to decrease by 1/1000th of its original pressure
+If it is too long, sounds are “muddled.”
+If it is too short, sounds are “dead.”
+Ideal times are around two seconds.
+
+
+Architectural Acoustics (cont'd.)
+Other factors that affect perception
+Intimacy time: time between when sound leaves its source and when the first reflection arrives
+Best time is around 20 ms.
+Bass ratio: ratio of low to middle frequencies reflected from surfaces
+High bass ratios are best.
+Spaciousness factor: fraction of all the sound received by listener that is indirect
+High spaciousness factors are best.
+Architectural Acoustics (cont'd.)
+
+
+
+The Auditory Scene: Separating Sound Sources
+Auditory scene: the array of all sound sources in the environment
+Auditory scene analysis: process by which sound sources in the auditory scene are separated into individual perceptions.
+Does not happen at the cochlea since simultaneous sounds are together in the pattern of vibration of the basilar membrane
+The Auditory Scene: Separating Sound Sources (cont'd.)
+
+
+The Auditory Scene: Separating Sound Sources (cont'd.)
+Heuristics that help to perceptually organize stimuli
+Onset time: sounds that start at different times are likely to come from different sources.
+Location: a single sound source tends to come from one location and to move continuously.
+Similarity of timbre and pitch: similar sounds are grouped together.
+The Auditory Scene: Separating Sound Sources (cont'd.)
+
+
+
+The Auditory Scene: Separating Sound Sources (cont'd.)
+Compound melodic line in music is an example of auditory stream segregation.
+Experiment by Bregman and Campbell
+Stimuli were in alternating high and low tones.
+When stimuli played slowly, the perception is hearing high and low tones alternating.
+When the stimuli are played quickly, the listener hears two streams, one high and one low.
+The Auditory Scene: Separating Sound Sources (cont'd.)
+
+
+
+The Auditory Scene: Separating Sound Sources (cont'd.)
+
+
+
+The Auditory Scene: Separating Sound Sources (cont'd.)
+Experiment by Deutsch: the scale illusion or melodic channeling
+Stimuli were two sequences alternating between the right and left ears.
+Listeners perceive two smooth sequences by grouping the sounds by similarity in pitch.
+This demonstrates the perceptual heuristic that sounds with the same frequency come from the same source, which is usually true in the environment.
+The Auditory Scene: Separating Sound Sources (cont'd.)
+
+
+The Auditory Scene: Separating Sound Sources (cont'd.)
+Proximity in time: sounds that occur in rapid succession usually come from the same source.
+This principle was illustrated in auditory streaming.
+Auditory continuity: sounds that stay constant or change smoothly are usually from the same source.
+The Auditory Scene: Separating Sound Sources (cont'd.)
+Experiment by Warren et al.
+Tones were presented interrupted by gaps of silence or by noise.
+In the silence condition, listeners perceived that the sound stopped during the gaps.
+In the noise condition, the perception was that the sound continued behind the noise.
+The Auditory Scene: Separating Sound Sources (cont'd.)
+
+
+
+The Auditory Scene: Separating Sound Sources (cont'd.)
+Effect of past experience
+Experiment by Dowling
+Melody “Three Blind Mice” is played with notes alternating between octaves.
+Listeners find it difficult to identify the song.
+But after they hear the normal melody, they can then hear it in the modified version using melody schema.
+The Auditory Scene: Separating Sound Sources (cont'd.)
+
+
+Musical Organization: Melody
+Melody: the experience of a sequence of pitches as belonging together
+Subdivide melodies into phrases
+Pitch differences measured in semitones
+Auditory stream integration
+Gap fill
+Musical Organization: Melody (cont'd.)
+Tonality: organizing pitches around the note associated with the composition’s key
+Musical syntax: “rules”
+Studied using event-related potential (ERP)
+Expectations
+Musical Organization: Melody (cont'd.)
+
+
+
+Musical Organization: Melody (cont'd.)
+
+
+
+Musical Organization: Rhythm
+Rhythm: the time pattern of durations created by notes
+Beat: pulse of music
+Grahn and Rowe: connection between beat and basal ganglia
+
+
+Musical Organization: Rhythm (cont'd.)
+
+
+
+
+Musical Organization: Rhythm (cont'd.)
+
+
+
+
+Musical Organization: Rhythm (cont'd.)
+Meter: the organization of beats into bars or measures, with the first beat in each bar often being accented
+Iverson and colleagues studied the mental creation of meter.
+Found that our ability to change meter with our mind is reflected directly by activity in the brain
+
+
+
+
+Musical Organization: Rhythm (cont'd.)
+
+
+
+
+
+Musical Organization: Rhythm (cont'd.)
+Phillips-Silver and Trainor studied whether how we move influences our perception of meter.
+Infants
+Head turning procedure
+Found that moving is the key to influencing metrical grouping
+Perception of meter is influenced by stress patterns of a person’s language.
+
+
+
+
+Musical Organization: Rhythm (cont'd.)
+
+
+
+
+
+Connections Between Hearing and Vision
+Visual capture or the ventriloquist effect: an observer perceives the sound as coming from the visual location rather than the source for the sound.
+Two-flash illusion
+Connections Between Hearing and Vision (cont'd.)
+
+
+Hearing and Vision: Physiology
+The interaction between vision and hearing is multisensory in nature.
+Thaler et al. (2011): used expert blind echolocators to create clicking sounds and observed these signals activated the bran
+ 

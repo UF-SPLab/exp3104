@@ -1,0 +1,276 @@
+---
+title: "Sensory Processes"
+subtitle: "📕🔬📓<br/>Welcome to EXP3104"
+author: "Instructor: Ryan Mears, PhD"
+date: "ber , 2017"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: ["libs/remark-css/paper_class.css"]
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+class: inverse, center, middle
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+Chapter 14 
+The Cutaneous Senses
+The Somatosensory System
+Three parts
+Cutaneous senses: perception of touch and pain from stimulation of the skin
+Proprioception: ability to sense position of the body and limbs
+Kinesthesis: ability to sense movement of body and limbs
+Overview of the Cutaneous System
+Skin: heaviest organ in the body
+Protects the organism by keeping damaging agents from penetrating the body
+Epidermis is the outer layer of the skin, which is made up of dead skin cells.
+Dermis is below the epidermis and contains mechanoreceptors that respond to stimuli such as pressure, stretching, and vibration.
+Overview of the Cutaneous System (cont'd.)
+
+
+Mechanoreceptors
+Two types located close to surface of the skin
+Merkel receptor fires continuously while stimulus is present.
+Responsible for sensing fine details
+Meissner corpuscle fires only when a stimulus is first applied and when it is removed.
+Responsible for controlling hand-grip
+Mechanoreceptors (cont'd.)
+
+
+Mechanoreceptors (cont'd.)
+Two types located deeper in the skin
+Ruffini cylinder fires continuously to stimulation.
+Associated with perceiving stretching of the skin
+Pacinian corpuscle fires only when a stimulus is first applied and when it is removed.
+Associated with sensing rapid vibrations and fine texture
+Mechanoreceptors (cont'd.)
+
+
+Pathways from Skin to Cortex
+Nerve fibers travel in bundles (peripheral nerves) to the spinal cord.
+Two major pathways in the spinal cord
+Medial lemniscal pathway consists of large fibers that carry proprioceptive and touch information.
+Spinothalamic pathway consists of smaller fibers that carry temperature and pain information.
+These cross over to the opposite side of the body and synapse in the thalamus.
+Pathways from Skin to Cortex (cont'd.)
+
+
+The Somatosensory Cortex
+Signals travel from the thalamus to the somatosensory receiving area (S1) and the secondary receiving area (S2) in the parietal lobe.
+Body map (homunculus) on the cortex in S1 and S2 shows more cortical space allocated to parts of the body that are responsible for detail.
+Plasticity in neural functioning leads to multiple homunculi and changes in how cortical cells are allocated to body parts.
+
+The Somatosensory Cortex (cont'd.)
+
+
+
+Perceiving Details
+Measuring tactile acuity
+Two-point threshold: minimum separation needed between two points to perceive them as two units
+Grating acuity: placing a grooved stimulus on the skin and asking the participant to indicate the orientation of the grating
+Raised pattern identification: using such patterns to determine the smallest size that can be identified
+Perceiving Details (cont'd.)
+
+
+Receptor Mechanisms for Tactile Acuity
+There is a high density of Merkel receptors in the fingertips.
+Merkel receptors are densely packed on the fingertips: similar to cones in the fovea.
+Both two-point thresholds and grating acuity studies show these results.
+Receptor Mechanisms for Tactile Acuity (cont'd.)
+
+
+Receptor Mechanisms for Tactile Acuity (cont'd.)
+
+
+Receptor Mechanisms for Tactile Acuity (cont'd.)
+
+
+Cortical Mechanisms for Tactile Acuity
+Body areas with high acuity have larger areas of cortical tissue devoted to them.
+This parallels the “magnification factor” seen in the visual cortex for the cones in the fovea.
+Areas with higher acuity also have smaller receptive fields on the skin.
+Cortical Mechanisms for Tactile Acuity (cont'd.)
+
+
+
+Cortical Mechanisms for Tactile Acuity (cont'd.)
+
+
+
+Vibration of the Skin
+Pacinian corpuscle (PC) is primarily responsible for sensing vibration.
+Nerve fibers associated with PCs respond best to high rates of vibration.
+The structure of the PC is responsible for the response to vibration: fibers without the PC only respond to continuous pressure.
+Vibration of the Skin (cont'd.)
+
+
+Surface Texture
+Katz (1925) proposed that perception of texture depends on two cues.
+Spatial cues are determined by the size, shape, and distribution of surface elements.
+Temporal cues are determined by the rate of vibration as skin is moved across finely textured surfaces.
+Two receptors may be responsible for this process: the duplex theory of texture perception.
+Surface Texture (cont'd.)
+
+
+Spatial and Temporal Cues
+Past research showed support for the role of spatial cues.
+Recent research by Hollins and Reisner shows support for the role of temporal cues.
+In order to detect differences between fine textures, participants needed to move their fingers across the surface.
+Adaptation Experiment
+Adaptation experiment: participants’ skin was adapted with either
+10-Hz stimulus for six minutes to adapt the Meissner corpuscle
+250-Hz stimulus for six minutes to adapt the Pacinian corpuscle
+Results showed that only the adaptation to the 250-Hz stimulus affected the perception of fine textures.
+
+Adaptation Experiment (cont'd.)
+
+
+
+Perceiving Objects
+Humans use active rather than passive touch  to interact with the environment.
+Haptic perception is the active exploration of 3-D objects with the hand.
+It uses three distinct systems
+Sensory system
+Motor system
+Cognitive system
+Perceiving Objects (cont'd.)
+Psychophysical research shows that people can identify objects haptically in one to two seconds.
+Klatzky et al. have shown that people use exploratory procedures (EPs).
+Lateral motion
+Contour following
+Pressure
+Enclosure
+
+Perceiving Objects (cont'd.)
+
+
+
+The Cortical Physiology of Tactile Object Perception
+The firing pattern of groups of mechanoreceptors signals shape, such as the curvature of an object.
+Neurons further upstream become more specialized.
+Monkey’s thalamus shows cells that respond to center-surround receptive fields.
+Somatosensory cortex shows cells that respond maximally to orientations and direction of movement.
+The Cortical Physiology of Tactile Object Perception (cont'd.)
+
+
+The Physiology of Tactile Object Perception
+Monkey’s somatosensory cortex also shows neurons that respond best to:
+Grasping specific objects
+Paying attention to the task
+Neurons may respond to stimulation of the receptors, but attending to the task increases the response.
+The Physiology of Tactile Object Perception (cont'd.)
+
+
+The Physiology of Tactile Object Perception (cont'd.)
+
+
+
+
+Pain Perception
+Pain is a multimodal phenomenon containing a sensory component and an affective or emotional component.
+Pain Perception (cont'd.)
+Three types of pain
+Inflammatory pain: caused by damage to tissues and joints or by tumor cells
+Neuropathic pain: caused by damage to the central nervous system
+Brain damage caused by stroke; repetitive movements
+Nociceptive: signals impending damage to the skin
+Respond to heat, chemicals, severe pressure, and cold
+Threshold of eliciting receptor response must be balanced to warn of damage, but not be affected by normal activity.
+Pain Perception (cont'd.)
+
+
+
+The Gate Control Model of Pain
+Early model that stated nociceptors are stimulated and send signals to the brain.
+Problems with the direct pathway model
+Pain can be affected by a person’s mental state.
+Pain can occur when there is no stimulation of the skin.
+Pain can be affected by a person’s attention.
+Phantom limbs
+The Gate Control Model of Pain (cont'd.)
+
+
+The Gate Control Model of Pain (cont'd.)
+Gate control: pain signals enter spinal cord from the body and transmitted to the brain.
+Additional pathways that influence the signals from spinal cord to the brain can open or close a gate in the spinal cord.
+Cells in the dorsal horn of spinal cord
+Nociceptors
+Mechanoreceptors
+Central control
+
+
+The Gate Control Model of Pain (cont'd.)
+
+
+
+Top-Down Processes
+Expectation: when surgical patients are told what to expect, they request less pain medication and leave the hospital earlier.
+Placebos can also be effective in reducing pain.
+Shifting attention: virtual reality technology has been used to keep patients’ attention on other stimuli than the pain-inducing stimulation.
+
+Top-Down Processes (cont'd.)
+Emotions: participants could keep their hands in cold water longer when pictures they were shown were positive.
+Looking at pictures
+Listening to music (Roy, 2008 experiment)
+Top-Down Processes (cont'd.)
+
+
+
+The Brain and Pain
+Subcortical areas, including the hypothalamus, limbic system, and the thalamus
+Cortical areas, including S1 in the somatosensory cortex, the insula, and the anterior cingulate and prefrontal cortices
+These cortical areas taken together are called the pain matrix.
+The Brain and Pain (cont'd.)
+
+
+The Brain and Pain (cont'd.)
+Experiment by Hoffauer et al.
+Participants were presented with potentially painful stimuli and asked
+To rate subjective pain intensity
+To rate the unpleasantness of the pain
+Brain activity was measured while they placed their hands into hot water.
+Hypnosis was used to increase or decrease the sensory and affective components.
+The Brain and Pain (cont'd.)
+Results:
+Suggestions to change the subjective intensity led to changes in both ratings and in activity in S1.
+Suggestions to change the unpleasantness of pain did not affect the subjective ratings, but did change ratings of unpleasantness.
+
+The Brain and Pain (cont'd.)
+
+
+
+The Brain and Pain (cont'd.)
+Opioids and pain
+Brain tissue releases neurotransmitters called endorphins.
+Evidence shows that endorphins reduce pain.
+Injecting naloxone blocks the receptor sites causing more pain.
+Naloxone also decreases the effectiveness of placebos.
+People whose brains release more endorphins can withstand higher pain levels.
+The Brain and Pain (cont'd.)
+
+
+The Brain and Pain (cont'd.)
+
+
+Observing Pain in Others
+Singer and coworkers (2004) demonstrated the connection between brain response to pain and empathy.
+Klimecki and coworkers (2014): empathy training
+Those in empathy training group showed more empathy to people suffering due to injury.
+
+Observing Pain in Others (cont'd.)
+
+
+
+Social and Physical Pain
+Eisenberger and coworkers (2015): does rejection hurt?
+Cyberball experiment
+Dorsal anterior cingulate cortex is activated by feelings of social exclusion.
+Physical-social pain overlap hypothesis
+
+
+ 

@@ -1,0 +1,543 @@
+---
+title: "Cutaneous Senses" 
+subtitle: "Chapter 14"
+author: "Sensory Processes -- EXP3104"
+date: ""
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: [metropolis-fonts,default,metropolis,"libs/myassets/remark-css/hygge.css","https://afeld.github.io/emoji-css/emoji.css","libs/myassets/remark-css/header-footer.css","libs/myassets/remark-css/griddage.css","libs/myassets/remark-css/grid-some.css"]
+    nature:
+      beforeInit: ["libs/myassets/remark-js/macros.js"]
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+
+---
+class: inverse, center, middle
+
+# Perception by the Skin and Hands
+![:hline]()
+### Name the three parts of the somatosensory system, and <br/> outline the functions of the skin.
+### Describe the layers of the skin and the types of mechanoreceptors.
+### Map the pathways from skin to cortex, as well as in sensory cortex.
+
+
+---
+
+# The Somatosensory System
+- Three parts
+    - **Cutaneous senses**: perception of touch and pain from stimulation of the skin
+    - **Proprioception**: ability to sense position of the body and limbs
+    - **Kinesthesis**: ability to sense movement of body and limbs
+![:positionImage 34%, 12%, 0deg, 450px](Schwartz_Sensation_2E_Figure 14.4.jpg)
+
+---
+background-image: url(Touch_recpt.jpg)
+background-size: 105%
+background-position: 60% 90%
+
+# Overview of the Cutaneous System
+- **Skin**: heaviest organ in the body
+    - Protects the organism by keeping damaging agents from penetrating the body
+    - Epidermis is the outer layer of the skin, which is made up of dead skin cells.
+    - Dermis is below the epidermis and contains mechanoreceptors that respond to stimuli such as pressure, stretching, and vibration.
+
+---
+class: center
+
+# Mechanoreceptors near skin surface
+
+![:image 60%](fig_14_1.png)
+]
+.pull-left[
+**Merkel receptor** fires continuously while stimulus is present.
+- Responsible for sensing fine details
+]
+.pull-right[
+**Meissner corpuscle** fires only when a stimulus is first applied or when removed.
+- Responsible for controlling hand-grip
+]
+
+???
+
+Figure 14.1 A cross section of glabrous (without hairs or projections) skin, showing the layers of the skin and the structure, firing properties, and perceptions associated with the Merkel receptor (SA1) and Meissner corpuscle (RA1)—two mechanoreceptors near the surface of the skin. 
+
+
+
+---
+class: center
+
+# .font80[Mechanoreceptors located deeper in the skin]
+
+![:image 60%](fig_14_3.png)
+.pull-left[
+**Ruffini cylinder** fires continuously to stimulation.
+- Associated with perceiving stretching of the skin 
+    ]
+.pull-right[
+**Pacinian corpuscle** fires only when a stimulus is first applied or when removed.
+- Associated with sensing rapid vibrations and fine texture
+    ]
+
+???
+
+Figure 14.3 A cross section of glabrous skin, showing the structure, firing properties, and perceptions associated with the Ruffini cylinder (SA2) and the Pacinian corpuscle (RA2 or PC)—two mechanoreceptors that are deeper in the skin. 
+
+---
+background-image: url(Touch_recpt.jpg)
+background-size: 105%
+
+# Mechanoreceptors
+
+
+
+
+---
+
+# Pathways from Skin to Cortex
+.pull-left[
+Nerve fibers travel in bundles (peripheral nerves) to the spinal cord.  
+###Major spinal cord pathways:
+- **Medial lemniscal pathway** consists of large fibers that carry proprioceptive and touch information.
+- **Spinothalamic pathway** consists of smaller fibers that carry temperature and pain information.
+    - These cross over to the opposite side of the body and synapse in the thalamus.
+]
+![:positionImage 12%, 47%, 0deg, 500px](Schwartz_Sensation_2E_Figure 14.11.jpg)
+---
+
+# Pathways from Skin to Cortex
+
+![:image 60%](fig_14_4.png)
+.pull-left[
+**Medial lemniscal pathway** 
+- Large fibers, proprioception & touch
+]
+.pull-right[
+**Spinothalamic pathway** 
+- Smaller fibers, temperature & pain
+    - Immediate spinal cord cross-over
+    ]
+
+???
+
+Figure 14.4 The pathway from receptors in the skin to the somatosensory receiving area of the cortex. The fiber carrying signals from a receptor in the finger enters the spinal cord through the dorsal root. The signals then travel up the spinal cord along two pathways: the medial lemniscus and the spinothalamic tract. These pathways synapse in the ventrolateral nucleus of the thalamus and then send signals to the somatosensory cortex in the parietal lobe. 
+
+---
+
+# Auditory
+
+.pull-left[
+### Cochlea: tonotopic resonance.
+
+![](cochlea.jpg)
+]
+.pull-right[
+
+### Auditory Cortex: tonotopic map corresponds to cochlea surface.
+![](cat_aud.jpg)
+
+]
+
+---
+
+# Retinotopic Map
+
+.pull-left[
+### Selective blindness resulting from mapping of cortex to retinal surface
+
+![](pie_loc_vfield_lesions.jpg)
+]
+.pull-right[
+
+### Visual Cortex: retinotopic map corresponds to retina surface.
+![](V1_map_vfields.jpg)
+
+]
+
+
+---
+# Somatotopic Map
+
+### Somatotopic cortical map corresponds to surface of skin.
+
+![:image 60%](humunculus.jpg)
+
+
+
+
+
+---
+
+# The Somatosensory Cortex
+.pull-left[
+- Signals travel from the thalamus to the somatosensory receiving area (S1) and the secondary receiving area (S2) in the parietal lobe.
+    - Body map (homunculus) on the cortex in S1 and S2 shows more cortical space allocated to parts of the body that are responsible for detail.
+- Plasticity in neural functioning leads to multiple homunculi and changes in how cortical cells are allocated to body parts.
+]
+.pull-right[
+
+![](fig_14_5.png)
+]
+
+???
+
+Figure 14.5 (a) The somatosensory cortex in the parietal lobe. The primary somatosensory area, S1 (light purple), receives inputs from the ventrolateral nucleus of the thalamus. The secondary somatosensory area, S2 (dark purple), is partially hidden behind the temporal lobe. (b) The sensory homunculus on the somatosensory cortex. Parts of the body with the highest tactile acuity are represented by larger areas on the cortex. 
+
+---
+class: inverse, center, middle
+
+# Perceiving Details
+![:hline]()
+### Describe methods used to measure tactile acuity.
+
+
+---
+
+# Perceiving Details
+.pull-left[
+- Measuring tactile acuity
+    - **Two-point** threshold: minimum separation needed between two points to perceive them as two units
+    - **Grating acuity**: placing a grooved stimulus on the skin and asking the participant to indicate the orientation of the grating
+    - **Raised pattern identification**: using such patterns to determine the smallest size that can be identified
+]
+![:positionImage 12%, 47%, 0deg, 500px](Schwartz_Sensation_2E_Figure 14.3.jpg)
+---
+
+# Perceiving Details
+
+![](braille_1.jpg)
+
+???
+
+Figure 14.6 The Braille alphabet consists of raised dots in a 2 ×3 matrix. The large blue dots indicate the location of the raised dot for each letter. Blind people read these dots by scanning them with their fingertips. 
+
+---
+
+# Perceiving Details
+
+![](braille_2.jpg)
+
+???
+
+---
+
+# Receptor Mechanisms for Tactile Acuity
+- There is a high density of Merkel receptors in the fingertips.
+- Merkel receptors are densely packed on the fingertips: similar to cones in the fovea.
+- Both two-point thresholds and grating acuity studies show these results.
+
+![](fig_14_7.png)
+
+???
+
+Figure 14.7 Methods for determining tactile acuity: (a) two-point threshold; (b) grating acuity. 
+
+---
+
+# Receptor Mechanisms for Tactile Acuity
+
+![](fig_14_8.png)
+
+???
+
+Figure 14.8 Firing to the grooved stimulus pattern of (a) the fiber associated with a Merkel receptor and (b) the fiber associated with a Pacinian corpuscle receptor. The response to each groove width was recorded during a 1-second indentation for each bar width, so these graphs represent the results for a number of presentations.
+---
+
+# Receptor Mechanisms for Tactile Acuity
+
+![](fig_14_9.png)
+
+???
+
+Figure 14.9 Correlation between density of Merkel receptors and tactile acuity. 
+
+---
+
+# Cortical Mechanisms for Tactile Acuity
+.pull-left[
+- Body areas with high acuity have larger areas of cortical tissue devoted to them.
+    - This parallels the "magnification factor" seen in the visual cortex for the cones in the fovea.
+    - Areas with higher acuity also have smaller receptive fields on the skin.
+]
+.pull-right[
+![](fig_14_t1.png)
+]
+
+???
+
+
+---
+
+# Cortical Mechanisms for Tactile Acuity
+
+![](fig_14_10.png)
+
+???
+
+Figure 14.10 Receptive fields of monkey cortical neurons that fire (a) when the fingers are stimulated; (b) when the hand is stimulated; and (c) when the arm is stimulated (Kandel & Jessell, 1991). (d) Stimulation of two nearby points on the finger causes separated activation on the finger area of the cortex, but stimulation of two nearby points on the arm causes overlapping activation in the arm area of the cortex. 
+
+
+---
+class: inverse, center, middle
+
+# Perceiving Vibration and Texture
+![:hline]()
+### Identify the receptor mechanisms and cortical mechanisms that are responsible for tactile acuity and feeling vibrations.
+### Describe the duplex theory of texture perception & support with research.
+
+---
+
+# Vibration of the Skin
+.pull-left[
+- Pacinian corpuscle (PC) is primarily responsible for sensing vibration.
+    - Nerve fibers associated with PCs respond best to high rates of vibration.
+    - The structure of the PC is responsible for the response to vibration: fibers without the PC only respond to continuous pressure.
+]
+.pull-right[
+![](fig_14_11.png)
+]
+
+???
+
+Figure 14.11 (a) When a vibrating pressure stimulus is applied to the Pacinian corpuscle, it transmits these pressure vibrations to the nerve fiber. (b) When a continuous pressure stimulus is applied to the Pacinian corpuscle, it does not transmit the continuous pressure to the fiber. (c) Lowenstein determined how the fiber fired to stimulation of the corpuscle (at A) and to direct stimulation of the fiber (at B).
+
+---
+
+# Surface Texture
+.pull-left[
+- Katz (1925) proposed that perception of texture depends on two cues.
+    - Spatial cues are determined by the size, shape, and distribution of surface elements.
+    - Temporal cues are determined by the rate of vibration as skin is moved across finely textured surfaces.
+- Two receptors may be responsible for this process: the duplex theory of texture perception.
+]
+.pull-right[
+![](fig_14_12.png)
+]
+???
+
+Figure 14.12 The post in (a) is illuminated from the left. The close-up in (b) shows how the visual perception of texture is influenced by illumination. Although the surface on the right side of the pole appears rougher than on the left, the surface textures of the two sides are identical.
+
+---
+
+# Spatial and Temporal Cues
+- Past research showed support for the role of spatial cues.
+- Recent research by Hollins and Reisner shows support for the role of temporal cues.
+    - In order to detect differences between fine textures, participants needed to move their fingers across the surface.
+
+
+
+---
+class: inverse, center, middle
+
+# Perceiving Objects
+![:hline]()
+### Summarize the exploratory procedures used in haptic exploration and the physiology of tactile object perception.
+
+---
+
+# Adaptation Experiment
+
+.pull-left[
+- Adaptation experiment: participants' skin was adapted with either
+    - 10-Hz stimulus for six minutes to adapt the Meissner corpuscle
+    - 250-Hz stimulus for six minutes to adapt the Pacinian corpuscle
+- Results showed that only the adaptation to the 250-Hz stimulus affected the perception of fine textures.
+]
+.pull-right[
+
+![](fig_14_13.png)
+]
+
+???
+
+Figure 14.13 Eliminating the action of fibers associated with the Meissner corpuscle by adaptation to a 10-Hz vibration had no effect on perception of a fine texture, but eliminating the action of the Pacinian corpuscle by adapting to a 250-Hz vibration eliminated the ability to sense the fine textures.
+
+
+---
+
+# Perceiving Objects
+- Humans use active rather than passive touch  to interact with the environment.
+- Haptic perception is the active exploration of 3-D objects with the hand.
+    - It uses three distinct systems
+        - Sensory system
+        - Motor system
+        - Cognitive system
+
+![:positionImage 45%, 5%, 0deg, 800px](Schwartz_Sensation_2E_Figure 14.15.jpg)
+
+---
+# Perceiving Objects
+.pull-left[
+- Psychophysical research shows that people can identify objects haptically in one to two seconds.
+- Klatzky et al. have shown that people use exploratory procedures (EPs).
+]
+![:positionImage 50%, 0%, 0deg, 400px](fig_14_14.png)
+![:positionImage 12%, 50%, 0deg, 375px](Schwartz_Sensation_2E_Figure 14.19.jpg)
+
+???
+
+Figure 14.14 Some of the exploratory procedures (EPs) observed by Lederman and Klatzky as participants identified objects. 
+
+- Lateral motion: The skin is passed laterally across a surface, producing shear force.
+- Contour following: Skin contact follows the gradient of the object's surface or is maintained along edges when they are present.
+- Pressure: Force is exerted on the object against a resisting force; for example, by pressing into the surface, bending the object, or twisting.
+- Enclosure: The fingers (or other exploring effector) are molded closely to the object surface.
+- Static contact: The skin surface is held in contact with the object surface, without motion; typically a large surface (like the whole hand) is applied. This EP gives rise to heat flow between the skin and the object.
+- Unsupported holding: The object is held while the hand is not externally supported; typically this EP involves lifting, hefting or wielding the object.
+
+---
+
+# .font70[The Cortical Physiology of Tactile Object Perception]
+.pull-left[
+- The firing pattern of groups of mechanoreceptors signals shape, such as the curvature of an object.
+- Neurons further upstream become more specialized. 
+    - Monkey's thalamus shows cells that respond to center-surround receptive fields. 
+        - Somatosensory cortex shows cells that respond maximally to orientations and direction of movement. 
+]
+.pull-right[
+![:image 60%](fig_14_15.png)
+]
+???
+
+Figure 14.15 An excitatory-center, inhibitory-surround receptive field of a neuron in a monkey’s thalamus. 
+
+---
+
+# .font70[The Physiology of Tactile Object Perception]
+- Monkey's somatosensory cortex also shows neurons that respond best to:
+    - Grasping specific objects 
+    - Paying attention to the task
+        - Neurons may respond to stimulation of the receptors, but attending to the task increases the response.
+
+![:image 60%](fig_14_16.png)
+
+???
+
+Figure 14.16 Receptive fields of neurons in the monkey’s somatosensory cortex. (a) The records to the right of the hand show nerve firing to stimulation of the hand with the orientations shown on the hand. This neuron responds best when a horizontally oriented edge is presented to the monkey’s hand. (b) The records on the right indicate nerve firing for movement of a stimulus across the fingertip from right to left (top) and from left to right (bottom). This neuron responds best when a stimulus moves across the fingertip from right to left. 
+
+---
+
+# .font70[The Physiology of Tactile Object Perception]
+
+
+![:image 60%](fig_14_17.png)
+
+
+???
+
+Figure 14.17 The response of a neuron in a monkey’s parietal cortex that fires when the monkey grasps a ruler but that does not fire when the monkey grasps a cylinder. The monkey grasps the objects at time = 0.
+
+---
+
+# Cutaneous Receptors
+
+.pull-left[
+![](fig_14_1.png)
+]
+.pull-right[
+![](fig_14_3.png)
+]
+
+  
+  
+  
+
+
+<th colspan="3">Size of Receptive Field</th>|
+:---:|:---:|:---:|:---:|
+|<b> Small</b>|<a> &emsp;&emsp;</a>|<b>Large</b>|
+<b style="color:#900;">Adaptation</b>| | |
+<b> Slow</b>|• Merkel Disk (SA1)|<a> &emsp;&emsp;</a>| •Ruffini Cylinder (SA2)|
+<b> Fast</b>|• Meissner Corpuscle (RA1)|<a> &emsp; &emsp;</a>|•Pacinian Corpuscle (RA2)|
+
+
+---
+class: inverse, center, middle
+
+# Pain Perception
+![:hline]()
+### Types of Pain
+### Distinguish among the three different types of pain.
+
+---
+
+# Pain Perception
+- Pain is a multimodal phenomenon containing a sensory component and an affective or emotional component.
+
+![:positionImage 50%, 55%, 0deg, 400px](fig_14_24.png)
+![:positionImage 25%, 2%, 0deg, 500px](WB_Faces_Pain_Scale.jpg)
+
+---
+
+# Pain Perception
+
+- **Inflammatory pain**: caused by damage to tissues and joints or by tumor cells
+- **Neuropathic pain**: caused by damage to the central nervous system 
+    - Brain damage caused by stroke; repetitive movements
+- **Nociceptive**: signals impending damage to the skin
+    - Respond to heat, chemicals, severe pressure, and cold
+    - Threshold of eliciting receptor response must be balanced to warn of damage, but not be affected by normal activity.
+
+
+![:positionImage 45%, 25%, 0deg, 500px](fig_14_21.png)
+
+???
+
+Figure 14.21 Nociceptive pain is created by activation of nociceptors in the skin that respond to different types of stimulation. Signals from the nociceptors are transmitted to the spinal cord and then up the spinal cord in pathways that lead to the brain. 
+
+
+---
+class: inverse, center, middle
+
+# The Gate Control Model of Pain
+![:hline]()
+### Debate the issues with the direct pathway model and the major principles of the gate-control model of pain.
+
+---
+
+# The Gate Control Model of Pain
+
+.pull-left[
+**Direct model**: stimulated nociceptors send signals directly to brain.  
+  
+Problems with **Direct** pathway model:
+- Pain can be affected by a person's mental state.
+- Pain can occur when there is no stimulation of the skin.
+- Pain can be affected by attention.
+- Phantom limbs
+]
+
+.pull-right[
+
+![:image 80%](fig_14_22.png)
+
+]
+
+???
+
+Figure 14.22 The light part of the right arm represents the phantom limb—an extremity that is not physically present, but which the person perceives as existing. 
+
+---
+
+# The Gate Control Model of Pain
+
+.pull-left[
+**Gate control**: pain signals enter spinal cord from body & transmit to brain.  
+Additional pathways that influence signals from spinal cord to brain can open or close a gate in spinal cord.  
+- Cells in the **dorsal horn** of spinal cord
+ - Nociceptors
+ - Mechanoreceptors 
+ - Central control
+]
+
+
+
+![:positionImage 12%, 55%, 0deg, 400px](Schwartz_Sensation_2E_Figure 14.16.jpg)
+![:positionImage 56%, 28%, 0deg, 400px](fig_14_23b.png)
+![:positionImage 70%, 2%, 0deg, 250px](fig_14_23a.png)
+
+???
+
+Figure 14.23 (a) Cross section of the spinal cord showing fibers entering through the dorsal root. (b) The circuit proposed by Melzack and Wall (1965, 1988) for their gate control model of pain perception. 
+

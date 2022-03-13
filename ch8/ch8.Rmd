@@ -21,6 +21,7 @@ options(htmltools.dir.version = FALSE)
 ```
 
 # Functions of Motion Perception
+![:hline]()
 ###  Discuss the major functions of motion perception and the ways in which we can perceive motion.
 ###  Describe real and apparent motion, what the aperture problem is, and how the visual system “solves” this problem.
 
@@ -417,6 +418,7 @@ Figure 8.12 Afterimage demonstration. (a) Stimulus to stare at. (b) When the eye
 class: inverse, center, middle
 
 # Studying Motion Perception
+![:hline]()
 ###  Detail how lesioning, transcranial magnetic stimulation, and microstimulation have been used to study how neurons signal motion.
 
 
@@ -433,7 +435,7 @@ class: inverse, center, middle
 ![](fig_8_14.png)
 
 ???
-
+c(7,25,27,29,30,35,36,44,64,69,71)
 Figure 8.14 Responses of a real-motion neuron in extrastriate cortex of a monkey. In both cases, a bar (B) sweeps across the neuron’s receptive field (RF) as the monkey looks at a fixation point (FP). (a) The neuron fires when the bar moves to the left across the receptive field. (b) The neuron doesn’t fire when the eye moves to the right even though this causes the bar to move across the receptive field.
 
 
@@ -626,7 +628,13 @@ http://www.pc.rhul.ac.uk/staff/J.Zanker/PS1061/L4/PS1061_4.htm
 
 ]
 
+---
 
+# NOT Aperture problem! 
+
+### Plaid movement is average of two dominant percepts
+
+![](barberplaid_generic.gif)
 
 ---
 
@@ -683,6 +691,7 @@ Figure 8.24 Frames from the stimuli used by Grossman and Blake (2001). (a) Seque
 class: inverse, center, middle
 
 # Motion Perception and the Brain
+![:hline]()
 ###  Discuss behavioral and physiological research on implied motion, and relate this to the concept of representational momentum.
 
 
