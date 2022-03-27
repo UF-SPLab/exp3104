@@ -354,133 +354,6 @@ Figure 9.12 Patterns of firing of the three types of cones to different colors. 
 
 Figure 9.13 Principle behind metamerism. The proportions of 530-nm and 620-nm lights in the field on the left have been adjusted so that the mixture appears identical to the 580-nm light in the field on the right. The numbers indicate the responses of the short-, medium-, and long-wavelength receptors. There is no difference in the responses of the two sets of receptors, so the two fields are perceptually indistinguishable. 
 
----
-
-# .font50[Are Three Receptor Mechanisms Necessary for Color Vision?]
-.pull-left[
-- One receptor type cannot lead to color vision
-    - Absorption of a photon causes the same effect, no matter what the wavelength is.
-    - Any two wavelengths can cause the same response by changing the intensity.
-- Two receptor types (dichromats) solve this problem, but three types (trichromats) allow for perception of more colors.
-- *Principle of univariance*
-]
-.pull-right[
-![](fig_9_14.png)
-]
-
-???
-
-Figure 9.14 (a) Two fields, 480 nm on the left and 600 nm on the right. (b) Absorption spectrum of a visual pigment that absorbs 10 percent of 480-nm light and 5 percent of 600-nm light.
-
-
----
-
-# .font50[Are Three Receptor Mechanisms Necessary for Color Vision?]
-
-
-![](fig_9_15.png)
-
-???
-
-Figure 9.15 Calculation of how many molecules of the visual pigment in Figure 9.14 are isomerized (a) when the intensity of both is 1,000 photons. In this case, the 480-nm light isomerizes 100 molecules and the 600-nm light isomerizes 50 molecules, so the 480-nm light would look brighter. (b) When the intensity of the 600-nm light is increased to 2,000, both wavelengths isomerize the same number of molecules, so the two wavelengths are perceived as identical. 
-
----
-
-# Monochromatism
-- Monochromats have:
-    - A very rare hereditary condition 
-    - Only rods and no functioning cones
-    - Ability to perceive only in white, gray, and black tones
-    - True color-blindness
-    - Poor visual acuity
-    - Very sensitive eyes to bright light
-
----
-
-# Dichromatism
-- There are three types of dichromatism
-- Protanopia affects 1% of males and .02% of females.	
-    - Individuals see short-wavelengths as blue.
-    - Neutral point occurs at 492nm.
-    - Above neutral point, they see yellow.
-    - They are missing the long-wavelength pigment. 
-
----
-
-# Dichromatism
-- Deuteranopia affects 1% of males and .01% of females.
-    - Individuals see short-wavelengths as blue.
-    - Neutral point occurs at 498nm.
-    - Above neutral point, they see yellow.
-    - They are missing the medium wavelength pigment.
-
----
-
-# Dichromatism
-- Tritanopia affects .002% of males and .001% of females.
-    - Individuals see short wavelengths as blue.
-    - Neutral point occurs at 570nm.
-    - Above neutral point, they see red.
-    - They are most probably missing the short wavelength pigment .
-
----
-
-# Dichromatism
-
-![](fig_9_29.png)
-
-???
-
-Figure 9.29 (a) An example of an Ishihara plate for testing color deficiency. A person with normal color vision sees a “74” when the plate is viewed under standardized illumination. (b) The same Ishihara plate as perceived by a person with a form of red–green color deficiency.
-
----
-
-# Dichromatism
-
-![](fig_9_30.png)
-
-???
-Figure 9.30 How colored paper flowers appear to (a) trichromats; (b) protanopes; (c) deuteranopes; and (d) tritanopes. 
-
----
-
-# Dichromatism
-
-![](fig_9_31.png)
-
-???
-
-Figure 9.31 How the visible spectrum appears to (a) trichromats; (b) protanopes; (c) deuteranopes; and (d) tritanopes. The number indicates the wavelength of the neutral point. 
-
-
----
-
-# Vision With Two Receptor Types
-- **Monochromat**: person who needs only one wavelength to match any color
-- **Dichromat**: person who needs only two wavelengths to match any color
-- **Trichromat**: person who needs three wavelengths to match any color
-
-
-
-|Type of Color Deficiency|Cone System Absent|Color Experience|
-|---|:---:|---|
-|Rod monochromacy|*All*|**No** *color*|
-|Tritanopia|.blue[S (419nm)]| Lack green and yellow|
-|Deutanopia|.green[M  (531nm)]|Lack green and red| 
-|Protanopia|.red[L (558nm])|Lack green and red|
-|Anomalous Trichromacy|All present (1 different from standard)| near standard color vision|
-|Common Trichromacy|None| Standard color experience|
-
-
-
----
-
-# Tetrachromacy
-
-http://www.bbc.com/future/story/20140905-the-women-with-super-human-vision
-https://concettaantico.com/tetrachromacy/
-![](tetrart.jpg)
-
 
 ---
 class: inverse, center, middle
@@ -812,4 +685,134 @@ Figure 9.39 (a) A cup and its shadow. (b) The same cup and shadow with the penum
 ???
 
 Figure 9.43 HONEYBEE-pigments: Absorption spectra 
+
+
+
+
+---
+
+# .font50[Are Three Receptor Mechanisms Necessary for Color Vision?]
+.pull-left[
+- One receptor type cannot lead to color vision
+    - Absorption of a photon causes the same effect, no matter what the wavelength is.
+    - Any two wavelengths can cause the same response by changing the intensity.
+- Two receptor types (dichromats) solve this problem, but three types (trichromats) allow for perception of more colors.
+- *Principle of univariance*
+]
+.pull-right[
+![](fig_9_14.png)
+]
+
+???
+
+Figure 9.14 (a) Two fields, 480 nm on the left and 600 nm on the right. (b) Absorption spectrum of a visual pigment that absorbs 10 percent of 480-nm light and 5 percent of 600-nm light.
+
+
+---
+
+# .font50[Are Three Receptor Mechanisms Necessary for Color Vision?]
+
+
+![](fig_9_15.png)
+
+???
+
+Figure 9.15 Calculation of how many molecules of the visual pigment in Figure 9.14 are isomerized (a) when the intensity of both is 1,000 photons. In this case, the 480-nm light isomerizes 100 molecules and the 600-nm light isomerizes 50 molecules, so the 480-nm light would look brighter. (b) When the intensity of the 600-nm light is increased to 2,000, both wavelengths isomerize the same number of molecules, so the two wavelengths are perceived as identical. 
+
+---
+
+# Monochromatism
+- Monochromats have:
+    - A very rare hereditary condition 
+    - Only rods and no functioning cones
+    - Ability to perceive only in white, gray, and black tones
+    - True color-blindness
+    - Poor visual acuity
+    - Very sensitive eyes to bright light
+
+---
+
+# Dichromatism
+- There are three types of dichromatism
+- Protanopia affects 1% of males and .02% of females.	
+    - Individuals see short-wavelengths as blue.
+    - Neutral point occurs at 492nm.
+    - Above neutral point, they see yellow.
+    - They are missing the long-wavelength pigment. 
+
+---
+
+# Dichromatism
+- Deuteranopia affects 1% of males and .01% of females.
+    - Individuals see short-wavelengths as blue.
+    - Neutral point occurs at 498nm.
+    - Above neutral point, they see yellow.
+    - They are missing the medium wavelength pigment.
+
+---
+
+# Dichromatism
+- Tritanopia affects .002% of males and .001% of females.
+    - Individuals see short wavelengths as blue.
+    - Neutral point occurs at 570nm.
+    - Above neutral point, they see red.
+    - They are most probably missing the short wavelength pigment .
+
+---
+
+# Dichromatism
+
+![](fig_9_29.png)
+
+???
+
+Figure 9.29 (a) An example of an Ishihara plate for testing color deficiency. A person with normal color vision sees a “74” when the plate is viewed under standardized illumination. (b) The same Ishihara plate as perceived by a person with a form of red–green color deficiency.
+
+---
+
+# Dichromatism
+
+![](fig_9_30.png)
+
+???
+Figure 9.30 How colored paper flowers appear to (a) trichromats; (b) protanopes; (c) deuteranopes; and (d) tritanopes. 
+
+---
+
+# Dichromatism
+
+![](fig_9_31.png)
+
+???
+
+Figure 9.31 How the visible spectrum appears to (a) trichromats; (b) protanopes; (c) deuteranopes; and (d) tritanopes. The number indicates the wavelength of the neutral point. 
+
+
+---
+
+# Vision With Two Receptor Types
+- **Monochromat**: person who needs only one wavelength to match any color
+- **Dichromat**: person who needs only two wavelengths to match any color
+- **Trichromat**: person who needs three wavelengths to match any color
+
+
+
+|Type of Color Deficiency|Cone System Absent|Color Experience|
+|---|:---:|---|
+|Rod monochromacy|*All*|**No** *color*|
+|Tritanopia|.blue[S (419nm)]| Lack green and yellow|
+|Deutanopia|.green[M  (531nm)]|Lack green and red| 
+|Protanopia|.red[L (558nm])|Lack green and red|
+|Anomalous Trichromacy|All present (1 different from standard)| near standard color vision|
+|Common Trichromacy|None| Standard color experience|
+
+
+
+---
+
+# Tetrachromacy
+
+http://www.bbc.com/future/story/20140905-the-women-with-super-human-vision
+https://concettaantico.com/tetrachromacy/
+![](tetrart.jpg)
 

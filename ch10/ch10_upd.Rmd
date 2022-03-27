@@ -391,7 +391,7 @@ Figure 10.21 (a) A random-dot stereogram. (b) The principle for constructing the
 ![](willam.jpg)
 ]
 
-http://peeinears.github.io/MagicEye.js/
+http://peeinears.github.io/Stereogram.js/
 
 
 ---

@@ -6,9 +6,9 @@ date: ""
 output:
   xaringan::moon_reader:
     lib_dir: libs
-    css: [default,metropolis,metropolis-fonts,"https://afeld.github.io/emoji-css/emoji.css"]
+    css: [metropolis-fonts,default,metropolis,"libs/myassets/remark-css/hygge.css","https://afeld.github.io/emoji-css/emoji.css","libs/myassets/remark-css/header-footer.css","libs/myassets/remark-css/griddage.css","libs/myassets/remark-css/grid-some.css"]
     nature:
-      beforeInit: ["libs/remark-js/macro.js","libs/remark-js/dataTransfers.js"]
+      beforeInit: ["libs/myassets/remark-js/macros.js"]
       highlightStyle: github
       highlightLines: true
       countIncrementalSlides: false
@@ -25,6 +25,8 @@ options(htmltools.dir.version = FALSE)
 # Oculomotor Cues
 ![:hline]()
 ###	Compare and contrast the different cues that signal depth perception.
+---
+class: clear
 
 
 
@@ -57,12 +59,6 @@ Figure 10.1 (a) Misperception of the man’s depth leads to an incorrect percept
 Figure 10.2 (a) In the scene, the house is farther away than the tree, but images of points H on the house and T on the tree fall on points H’ and T’ on the two-dimensional surface of the retina on the back of the eye. (b) These two points on the retinal image, considered by themselves, do not tell us the distances of the house and the tree
 
 
----
-
-# Oculomotor Cues
-- Oculomotor cues are based on sensing the position of the eyes and muscle tension.
-    - Convergence: inward movement of the eyes when we focus on nearby objects.
-    - Accommodation: the shape of the lens changes when we focus on objects at different distances.
 
 ---
 class: clear
@@ -87,6 +83,19 @@ Figure 10.3 (a) Convergence of the eyes occurs when a person looks at something 
 
 
 ---
+
+# Oculomotor Cues
+Oculomotor cues are based on sensing the position of the eyes and muscle tension.
+- **Convergence**: foveate on nearby objects
+   - inward movement of the eyes
+   - cilliary muscles tighten lens
+- **Accommodation**: foveate on far away objects
+   - outward movement of the eyes
+   - cilliary muscles relax lens
+
+![](fig_10_3mod.png)
+
+---
 class: inverse, center, middle
 
 # Monocular Cues
@@ -97,17 +106,17 @@ class: inverse, center, middle
 
 # Monocular Cues
 - Monocular cues come from one eye
-    - Pictorial cues: sources of depth information that come from 2-D images, such as pictures
-    - Occlusion: when one object partially covers another
-    - Relative height: objects below the horizon that are higher in the field of vision are more distant.
+    - **Pictorial cues**: sources of depth information that come from 2-D images, such as pictures
+    - **Occlusion**: when one object partially covers another
+    - **Relative height**: objects below the horizon that are higher in the field of vision are more distant.
 - Objects above the horizon lower in the visual field are more distant.
 
 ---
 
 # Monocular Cues
-- Relative size: when objects are equal size, the closer one will take up more of your visual field.
-- Perspective convergence: parallel lines appear to come together in the distance.
-- Familiar size: distance information is based on our knowledge of object size.
+- **Relative size**: when objects are equal size, the closer one will take up more of your visual field.
+- **Perspective convergence**: parallel lines appear to come together in the distance.
+- **Familiar size**: distance information is based on our knowledge of object size.
 
 ---
 
@@ -123,9 +132,9 @@ Figure 10.4 (a) A scene in Tucson, Arizona, containing a number of depth cues: o
 ---
 
 # Monocular Cues
-- Atmospheric perspective: distance objects are fuzzy and have a blue tint.
-- Texture gradient: equally spaced elements are more closely packed as distance increases.
-- Shadows: indicate where objects are located
+- **Atmospheric perspective**: distance objects are fuzzy and have a blue tint.
+- **Texture gradient**: equally spaced elements are more closely packed as distance increases.
+- **Shadows**: indicate where objects are located
     - Enhance 3-D of objects
 
 ---
@@ -194,10 +203,10 @@ Figure 10.10 (a) Early morning shadows emphasize the mountain’s contours. (b) 
 ---
 
 # Motion-Produced Cues
-- Motion parallax: close objects in direction of movement glide rapidly past but objects in the distance appear to move slowly.
-- Deletion and accretion: objects are covered or uncovered as we move relative to them.
-    - Covering an object: deletion
-    - Uncovering an object is accretion
+- **Motion parallax**: close objects in direction of movement glide rapidly past but objects in the distance appear to move slowly.
+- **Deletion and accretion**: objects are covered or uncovered as we move relative to them.
+    - Covering an object is *deletion*
+    - Uncovering an object is *accretion*
 
 ---
 
@@ -236,8 +245,16 @@ class: inverse, center, middle
 ###	Explain how binocular disparity results in depth perception.
 ###	Discuss how random-dot stereograms are created and their importance, explain what the correspondence problem is.
 
+
 ---
-background-image: url(https://imgs.xkcd.com/comics/depth_perception.png)
+class: clear
+background-image: url(xkcd_monroe.jpg)
+background-size: 100%
+
+
+---
+class: clear
+background-image: url(depth_perception.png)
 background-size: 58%
 
 ???
@@ -245,17 +262,27 @@ background-size: 58%
 https://xkcd.com/941/large/
 https://xkcd.com/1080/large/
 
+https://imgs.xkcd.com/comics/depth_perception.png
+
 ---
 # Binocular Depth Information
 - Stereoscopic depth perception
     - Depth perception created by input from both eyes
 
 
-![](fig_10_13.png)
+---
+class: clear
+background-image: url(3d-cannon.jpg)
+background-size: 100%
 
-???
 
-Figure 10.13 Location of images on the retina for the “Two Eyes: Two Viewpoints” demonstration. 
+---
+# Binocular Depth Information
+- Stereoscopic depth perception
+    - Depth perception created by input from both eyes
+
+
+![](CrossedUncrossed.gif)
 
 
 ---
@@ -264,6 +291,28 @@ Figure 10.13 Location of images on the retina for the “Two Eyes: Two Viewpoint
 - Differences between 2D and 3D movies
     - "Stereo Sue"
     - Strabismus
+
+![:positionImage 27%, 50%, 0deg, 300px](Esotropia-uncorrected.jpg)
+![:positionImage 55%, 50%, 0deg, 300px](Esotropia-corrected.jpg)
+
+
+---
+# Two Eyes: Two Viewpoints  
+
+
+.pull-left[
+## .red[Right Eye Closed]
+]
+
+.pull-right[
+## .blue[Left Eye Closed]
+]
+
+![:positionImage 27%, 0%, 0deg, 900px](fig_10_13.png)
+
+???
+
+Figure 10.13 Location of images on the retina for the “Two Eyes: Two Viewpoints” demonstration. 
 
 
 ---
@@ -300,11 +349,17 @@ Figure 10.14 (a) and (b) 3-D movies are filmed using two side-by-side cameras so
 ---
 
 # Binocular Disparity
-- Objects that do not fall on the horopter fall on noncorresponding points
+.pull-left[
+- Objects not on the horopter fall on noncorresponding points
     - These points make disparate images.
-    - The angle between these points is the absolute disparity.
-    - The amount of disparity indicates how far an object is from the horopter. 
-    - Relative disparity is the difference between the absolute disparity of two objects.
+    - The angle between these points is the **absolute disparity**.
+    - The *amount of disparity* indicates how far an object is from the horopter. 
+    - **Relative disparity** is the difference between the absolute disparity of two objects.
+]
+.pull-right[
+![](abs_vs_rel.jpg)
+]
+
 
 ---
 

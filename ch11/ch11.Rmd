@@ -203,12 +203,12 @@ By <a href="//commons.wikimedia.org/wiki/User:LucasVB" title="User:LucasVB">Luca
 
 # Perceptual Aspects of Sound
 .pull-left[
-- **Equal loudness curves**: determined by using a standard 1,000 Hz tone
-    - Two dB levels are used: 40 and 80
-    - Participants match the perceived loudness of all other tones to the 1,000 Hz standard.
-    - Resulting curves show that tones sound:
-- At almost equal loudness at 80 dB
-- Softer at 40 dB for high and low frequencies than the rest of the tones in the range
+**Equal loudness curves**: determined by using a standard 1,000 Hz tone
+- Two dB levels are used: 40 and 80  
+- Participants match the perceived loudness of all other tones to the 1,000 Hz standard.  
+- .font90[Resulting curves show that tones sound:]
+   - At almost equal loudness at 80 dB
+   - Softer at 40 dB for high and low frequencies than the rest of the tones in the range
 ]
 .pull-right[
 ![](fig_11_7.png)
@@ -310,11 +310,12 @@ class: inverse, center, middle
 
 # Outer Ear 
 .pull-left[
-- **Outer ear**: pinna and auditory canal
-    - Pinna helps with sound location.
-    - **Auditory canal**: tube-like, 3 cm long structure
-- Protects the tympanic membrane at the end of the canal
-- The resonant frequency of the canal amplifies frequencies between 1,000 and 5,000 Hz.
+**Outer ear**: pinna and auditory canal
+- **Pinna** helps with sound location.
+- **Auditory canal** 
+   - Tube-like, 3 cm long structure
+   - Protects the tympanic membrane at the end of the canal
+   - The resonant frequency of the canal amplifies frequencies between 1,000 and 5,000 Hz.
 ]
 .pull-right[
 ![](fig_11_11.png)
@@ -354,18 +355,27 @@ Figure 11.12 The middle ear. The three bones of the middle ear transmit the vibr
 # Function of Middle Ear
 
 .pull-left[
-- Functioning of ossicles
-    - Outer and inner ear are filled with air.
-- Inner ear is filled with fluid that is much denser than air.
-    - Pressure changes in air transmit poorly into the denser medium.
-    - Ossicles act to amplify the vibration for better transmission to the fluid.
-    - Middle ear muscles dampen the ossicles' vibrations to protect the inner ear from potentially damaging stimuli.
+### .font90[*Ossicles Separate Membranes*]
+  
+**Outer ear** is filled with air.  
+
+**Middle ear** muscles protect inner ear.
+- Extremely loud noises engage reflex to dampen ossicles' vibrations.
+
+**Inner ear** fluid is much denser than air 
+- Air pressure changes from outer ear transmit poorly into the denser medium of inner ear cochlea. 
+
+### **20 to 1 amplification ratio**   
+- Tympanic membrane to Oval Window  
+- Produces better transmission to fluid
 
 ]
 .pull-right[
 
-![](fig_11_14.png)
+![:positionImage 45%, 53%, 0deg, 350px](fig_11_14.png)
 ]
+
+![:positionImage 12%, 53%, 0deg, 390px](lever_thumb.jpeg)
 
 ???
 
@@ -375,19 +385,21 @@ Figure 11.14 (a) A diagrammatic representation of the tympanic membrane and the 
 ---
 
 # Inner Ear
-.pull-left[
+
 - **Inner ear**: contains cochlea
     - Fluid-filled snail-like structure
     - Set into vibration by stapes
-- **Cochlear Partition**: Divides scala vestibuli & scala tympani  
-    - Cochlear partition extends from base (stapes end) to apex.
-    - Organ of Corti is contained by cochlear partition.
-]
-.pull-right[
-![:image 90%](fig_11_15a.png)
-]
+- **Cochlear Partition**: Divides scala </br> vestibuli & scala tympani  
+    - Cochlear partition extends from </br>base (stapes end) to apex.
+    - Organ of Corti is contained by</br> cochlear partition.
 
-![:image 90%](fig_11_15b.png)
+
+![:positionImage 12%, 45%, 0deg, 475px](fig_11_15a.png)
+![:positionImage 78%, 12%, 0deg, 250px](cut-roll.jpeg)
+![:positionImage 55%, 0%, 0deg, 450px](fig_11_15b.png)
+
+![:positionImage 60%, 50%, 0deg, 450px](cinnamon-roll-unrolled.jpg)
+
 
 ???
 
@@ -397,13 +409,48 @@ Figure 11.15 (a) A partially uncoiled cochlea. (b) A fully uncoiled cochlea. Th
 
 # From Pressure Changes to Electricity
 
-### Cross-section from prior slide
+.pull-left[
+### .font90[Cross-section from prior slide]
 
-![](fig_11_16.png)
+
+]
+.pull-right[
+
+]
+
+![:positionImage 50%, 1%, 0deg, 700px](fig_11_16.png)
+
+---
+
+# From Pressure Changes to Electricity
+
+.pull-left[
+### .font90[Cross-section from prior slide]
+
+[44th Anniversary of Birth of Hip-Hop (Google Doodle 2017)](https://www.google.com/doodles/44th-anniversary-of-the-birth-of-hip-hop)
+]
+.pull-right[
+.purple[*Tectorial Membrane*] = Hand  
+.red[*Inner Hair cells*] = Turntable Needle  
+]
+
+![:positionImage 50%, 1%, 0deg, 700px](fig_11_16.png)
+
+
+![:positionImage 29%, 60%, 0deg, 300px](hiphop_gif12.gif)
+
+
+
 
 ???
 
-Figure 11.16 (a) cross section of the cochlea. (b) close-up of the organ of corti, showing how it rests on the basilar membrane. Arrows indicate the motions of the basilar membrane and tectorial membrane that are caused by vibration of the cochlear partition. Although not obvious in this figure, the cilia of the outer hair cells are embedded in the tectorial membrane, but the cilia of the inner hair cells are not. 
+In the prior slide there was a cross section slice of the unfurled cinnamon roll. This is similar to our cross section of the cochlea here. 
+
+The close-up of the organ of corti, shows how it rests on the basilar membrane. 
+
+Arrows indicate the motions of the basilar membrane and tectorial membrane that are caused by vibration of the cochlear partition. 
+
+
 
 ---
 
@@ -412,25 +459,26 @@ Figure 11.16 (a) cross section of the cochlea. (b) close-up of the organ of cor
 - Basilar membrane vibrates in response to sound and supports the organ of Corti.
 - Inner and outer hair cells are the receptors for hearing.
 - Tectorial membrane extends over the hair cells.
-
+.pull-right[
 [10.16. Transduction and Hair Cells](https://isle.hanover.edu/isle2/)
-
-![:positionImage 38%, 10%, 0deg, 500px](Schwartz_Sensation_2E_Figure 10.17.jpg)
+]
+![:positionImage 29%, 2%, 0deg, 430px](Schwartz_Sensation_2E_Figure 10.17.jpg)
 
 
 ---
 
 # From Pressure Changes to Electricity
-- Transduction takes place through this process:
-    - Cilia bend in response to movement of organ of Corti and the tectorial membrane.
-    - Movement in one direction opens ion channels.
-    - Movement in the other direction closes the channels.
+
+### Step 3 – Receptor Processes
+Transduction takes place through this process:
+- Cilia bend in response to movement of organ of Corti and the tectorial membrane.
+- Movement in one direction opens ion channels.
+- Movement in the other direction closes the channels.
 - This causes bursts of electrical signals.
 
-![:positionImage 38%, 0%, 0deg, 400px](Schwartz_Sensation_2E_Figure 10.21.jpg)
+![:positionImage 49%, 0%, 0deg, 400px](Schwartz_Sensation_2E_Figure 10.21.jpg)
 
-![:positionImage 38%, 50%, 0deg, 400px](Schwartz_Sensation_2E_Figure 10.22.jpg)
-
+![:positionImage 44%, 50%, 0deg, 450px](Schwartz_Sensation_2E_Figure 10.22.jpg)
 
 ---
 class: inverse, center, middle
@@ -458,27 +506,32 @@ class: inverse, center, middle
 
 # .font60[Békésy Discovers How the Basilar Membrane Vibrates]
 .pull-left[
-Physical properties of the basilar membrane
-- Base of the membrane (by stapes) is:
-    - Three to four times narrower than at the apex
-    - 100 times stiffer than at the apex
-- Both the model and direct observation showed that the vibrating motion of the membrane is a traveling wave.
+Basilar Membrane Physical Properties
+- Base of Basilar membrane (by stapes):
+    - 3 to 4 times narrower than apex
+    - 100 times stiffer than apex
+- Both the model and direct observation showed that vibrating motion of membrane is a traveling wave.
+
+
+
 ]
 .pull-right[
-![](fig_11_21.png)
+Envelope of the traveling wave
+- Indicates the point of maximum displacement of the basilar membrane
+- Hair cells at point are stimulated most strongly leading to nerve fibers firing the most strongly at this location.
 ]
+
+.footnote[
+### Position of the peak is a function of frequency.
+]
+![:positionImage 47%, 45%, 0deg, 400px](fig_11_21.png)
+
 ???
 
 Figure 11.21 (a) A traveling wave like the one observed by Békésy. This picture shows what the membrane looks like when the vibration is “frozen” with the wave about two-thirds of the way down the membrane. (b) Side views of the traveling wave caused by a pure tone, showing the position of the membrane at three instants in time as the wave moves from the base to the apex of the cochlear partition. 
 
 
----
 
-# .font60[Békésy Discovers How the Basilar Membrane Vibrates]
-- Envelope of the traveling wave
-    - Indicates the point of maximum displacement of the basilar membrane
-    - Hair cells at this point are stimulated the most strongly leading to the nerve fibers firing the most strongly at this location.
-    - Position of the peak is a function of frequency.
 
 
 ---
