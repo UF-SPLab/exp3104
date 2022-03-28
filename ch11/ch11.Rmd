@@ -507,7 +507,7 @@ class: inverse, center, middle
 # .font60[Békésy Discovers How the Basilar Membrane Vibrates]
 .pull-left[
 Basilar Membrane Physical Properties
-- Base of Basilar membrane (by stapes):
+- **Base** of Basilar membrane (by stapes):
     - 3 to 4 times narrower than apex
     - 100 times stiffer than apex
 - Both the model and direct observation showed that vibrating motion of membrane is a traveling wave.
@@ -580,6 +580,10 @@ Figure 11.24 Tonotopic map of the guinea pig cochlea. numbers indicate the locat
 - Békésy used basilar membranes isolated from cadavers and his results showed no difference in response for close frequencies that people can distinguish.
 - New research with live membranes shows that the entire outer hair cells respond to sound by slight tilting and a change in length.
     - For this reason, these cells are called the cochlear amplifier.
+    
+![:positionImage 42%, 3%, 0deg, 375px](fig_11-17.png)
+![:positionImage 42%, 50%, 0deg, 350px](fig_11-27.png)
+
 
 ---
 
@@ -599,30 +603,39 @@ Figure 11.28 (a) Frequency spectrum for a complex tone with fundamental frequenc
 ---
 
 # The Physiology of Pitch Perception
-- **Phase-locking**
-    - Nerve fibers fire in bursts.
-    - Firing bursts happen at or near the peak of the sine-wave stimulus.
-    - Thus, they are "locked in phase" with the wave.
-    - Groups of fibers fire with periods of silent intervals creating a pattern of firing.
+.pull-left[
+**Phase-locking** to a sine-wave stimulus
+- Nerve fibers fire in bursts
+- Bursts occur near peaks: 
+   - "phase-locked" with wave peaks
+
+]
+.pull-right[
+Even if some fibers skip a peak, other fibers will catch the missing peaks.
+Several fibers create a population that will be phase-locked to all peaks of the sine-wave.
+]
+![:positionImage 40%, 3%, 0deg, 350px](fig_11-19.png)
+![:positionImage 37%, 49%, 0deg, 430px](fig_11-20.png)
+
 
 ---
 
 # The Physiology of Pitch Perception
-- Temporal coding-major mechanism of pitch perception
-- Resolved harmonics
+- Temporal coding
+   - major mechanism of</br> pitch perception
+- *Resolved* harmonics
 - *Unresolved* harmonics 
 
----
-class: clear
-
-
-![:image 60%](fig_11_29ab.png)
 
 
 
+![:positionImage 12%, 40%, 0deg, 475px](fig_11_29ab.png)
 
 
-![:image 60%](fig_11_29c.png)
+
+
+
+![:positionImage 65%, 40%, 0deg, 475px](fig_11_29c.png)
 
 
 ???
@@ -669,13 +682,10 @@ Figure 11.31 (a) The human brain, showing the location of the primary auditory r
 ---
 
 # Pitch and the Brain
-- There is a shift from earlier emphasis on the cochlea and the auditory nerve to research on the brain.
+- Research has shifted from earlier emphasis on the cochlea & auditory nerve to cortex, more recently.
 - *Place* coding is effective for the *entire range* of hearing.
 - *Temporal* coding with phase locking is effective *up to 5,000 Hz*.
 
----
-
-# Pitch and the Brain
 
 ![](fig_11_34.png)
 
@@ -693,39 +703,24 @@ Figure 11.34 (a) Human cortex, showing areas, in color, tested by norman-Haigner
     - Affects males more severely than females
     - Appears to be caused by exposure to damaging noises or drugs
 
----
+![](fig_11-36.png)
 
-# Hearing Loss
-- Noise-induced hearing loss
-    - Loud noise can severely damage the organ of Corti.
-    - OSHA standards for noise levels at work are set to protect workers.
-    - Leisure noise can also cause hearing loss.
+
 
 ---
 
-# Hearing Loss
+# Cochlear Implants: Tonotopic Map
 
-![](fig_11_37.png)
+.pull-left[
+Electrode array inserted into the cochlea to electrically stimulate auditory nerve fibers.  
+Electrode stimulation sites are sequentially arranged along array.
+- Highest frequencies/pitches: 
+   - Base near opening of cochlea
+- Lowest frequencies/pitches: 
+   - Apex at far end of array
+]
 
-???
-
-Figure 11.37 (a) mouse hair cell response, as a percentage of normal, to a 75-dbSPL tone following a 2-hour exposure to a 100-dbSPL tone. The response is greatly decreased compared to normal (indicated by the dashed line) 1 day after the exposure but has increased back to normal by 8 weeks after the exposure. (b) The response of auditory nerve fibers is also decreased 1 day after the exposure but fails to recover at 8 weeks, indicating permanent damage
-
----
-
-# Cochlear Implants
-- Electrodes are inserted into the cochlea to electrically stimulate auditory nerve fibers.
-- The device is made up of:
-    - A microphone worn behind the ear
-    - A sound processor
-    - A transmitter mounted on the mastoid bone 
-    - A receiver surgically mounted on the mastoid bone
-
----
-
-# Cochlear Implants
-
-![](fig_11_38.png)
+![:positionImage 12%, 48%, 0deg, 430px](fig_11_38.png)
 
 https://auditoryneuroscience.com/prosthetics/noise-vocoded-speech
 https://auditoryneuroscience.com/prosthetics/music
