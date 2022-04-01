@@ -542,9 +542,8 @@ Figure 11.21 (a) A traveling wave like the one observed by Békésy. This pictur
 
 
 
-![:positionImage 12%, 50%, 0deg, 375px](Fourier_series_and_transform.gif)
 
-![:positionImage 55%, 50%, 0deg, 300px](Fourier_series_square_wave_circles_animation.gif)
+![:positionImage 25%, 50%, 0deg, 400px](aud_nerve.png)
 
 
 ???
@@ -555,19 +554,27 @@ Figure 11.23 Two ways of sorting. (a) coffee beans of different sizes are deposi
 
 # The Cochlea Functions as a Filter
 .pull-left[
-- **Tonotopic map**
-  - Cochlea shows an orderly map of frequencies along its length.
-   - **Apex** responds best to low frequencies.
-   - **Base** responds best to high frequencies.
-- Neural **frequency tuning curves** (for individual neuron)
-    - Pure tones used to determine threshold for specific frequencies.
-    - Plotting frequency thresholds results in tuning curves.
-- **Characteristic frequency**: where neuron is most sensitive
+**Tonotopic map**
+- Cochlea shows an orderly map of frequencies along its length.
+   - **Apex**: low frequencies
+   - **Base**: high frequencies
+
 
 ]
 .pull-right[
-![](Schwartz_Sensation_2E_Figure 10.18.jpg)
+Neural **frequency tuning** curves
+- Pure tones used to determine threshold for specific frequencies.
+- Tuning curves for frequency thresholds  
+
+**Characteristic frequency** for each neuron:
 ]
+
+![:positionImage 47%, 2%, 0deg, 350px](Schwartz_Sensation_2E_Figure 10.18.jpg)
+![:positionImage 46%, 54%, 0deg, 350px](fig_11-25.png)
+
+![:positionImage 73.5%, 65%, 0deg, 200px](fig_11_24.png)
+
+
 
 ???
 
