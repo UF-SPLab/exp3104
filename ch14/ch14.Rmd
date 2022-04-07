@@ -191,17 +191,19 @@ class: inverse, center, middle
 ![:hline]()
 ### Describe methods used to measure tactile acuity.
 
-
+The most important tool of the theoretical physicist is his wastebasket
 ---
 
 # Perceiving Details
 .pull-left[
-- Measuring tactile acuity
-    - **Two-point** threshold: minimum separation needed between two points to perceive them as two units
-    - **Grating acuity**: placing a grooved stimulus on the skin and asking the participant to indicate the orientation of the grating
-    - **Raised pattern identification**: using such patterns to determine the smallest size that can be identified
+Measuring tactile acuity
+- **Two-point** threshold: minimum separation needed between two points to perceive them as two units
+- **Grating acuity**: placing a grooved stimulus on the skin and asking the participant to indicate the orientation of the grating
+- **Raised pattern identification**: using such patterns to determine the smallest size that can be identified
 ]
 ![:positionImage 12%, 47%, 0deg, 500px](Schwartz_Sensation_2E_Figure 14.3.jpg)
+![:positionImage 70%, 4%, 0deg, 300px](Snellen-myopia.png)
+
 ---
 
 # Perceiving Details

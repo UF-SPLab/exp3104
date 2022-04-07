@@ -58,20 +58,6 @@ Figure 12.2 The three directions used for studying sound localization: azimuth (
 ---
 
 # Auditory Localization
-
-![:positionImage 12%,10%,0deg,650px](AudNeurosciFig5-2.jpg)
-
-???
-
-The data are shown as spherical map projections, with my head at the centre of the sphere, and the interaural cue values shown by the color codes for the corresponding sound source directions in azimuth and elevation. A and B show interaural level differences (ILDs) in decibel. As you can see, ILDs are highly frequency dependent, i.e. high frequencies (say near 11 kHz, panel B) can generate large ILDs of 30 dB or larger, while lower frequencies (say near 700 Hz, panel A) generate ILDs of well below 10 dB. 
-
-ILDs are also significantly affected by the geometry of the head, outer ears, and shoulders, which is why the patterns of the ILDs are much more irregular than the Interaural time difference (ITD) patterns shown in C. ITDs are nearly spherically symmetric around the interaural axis, are much less frequency dependent, are maximal for positions right off to one side of the head, and never exceed values of 700 microseconds or so.
-
-ITDs and ILDs are both valuable cues for localizing sound sources, but even individuals who are deaf in one ear can sometimes localize sounds in space with some degree of accuracy. These judgements are thought to be based on monaural spectral cues (shown in D for sound source locations right in front, 0 degrees azimuth, at various elevation). Spectral cues arise because the outer ear filters sounds in a manner that depends on the angle of incidence of the sound waves, creating patterns of peaks and notches in the high frequency end of the sound.
-
----
-
-# Auditory Localization
 - On average, people can localize sounds:
     - Directly in front of them most accurately
     - To the sides and behind their heads least accurately
@@ -100,16 +86,17 @@ Figure 12.4 The principle behind interaural time difference (ITD). The tone dire
 ---
 
 # Binaural Cues for Sound Localization
-.pull-left[
-- **Interaural level difference (ILD)**: difference in sound pressure level reaching the two ear
-    - Reduction in intensity occurs for high frequency sounds for the far ear.
-        - The head casts an acoustic shadow.
-        - This effect does not occur for low frequency sounds.
-- Cone of confusion
-]
-.pull-right[
-![](fig_12_3.png)
-]
+
+
+**Interaural level difference (ILD)**:  
+- Difference in sound pressure level reaching two ears
+- Intensity reduction occurs for high frequency sounds for the far ear.
+- Head casts an acoustic shadow.
+   - Effect does not occur for low frequency sounds.
+   - Cone of confusion  
+
+![:positionImage 41%, 32%, 0deg, 550px](fig_12_3.png)
+
 
 ???
 
@@ -131,6 +118,24 @@ Figure 12.3 Why interaural level difference (ILD) occurs for high frequencies bu
 ???
 
 Figure 12.6 (a) Pinna showing sound bouncing around in nooks and crannies. (b) Frequency spectra recorded by a small microphone inside the listener’s right ear for the same broadband sound coming from two different locations. The difference in the pattern when the sound is 15 degrees above the head (blue curve) and 15 degrees below the head (red curve) is caused by the way different frequencies bounce around within the pinna when entering it from different angles. 
+
+
+
+---
+
+# Auditory Localization
+
+![:positionImage 12%,10%,0deg,650px](AudNeurosciFig5-2.jpg)
+
+???
+
+The data are shown as spherical map projections, with my head at the centre of the sphere, and the interaural cue values shown by the color codes for the corresponding sound source directions in azimuth and elevation. A and B show interaural level differences (ILDs) in decibel. As you can see, ILDs are highly frequency dependent, i.e. high frequencies (say near 11 kHz, panel B) can generate large ILDs of 30 dB or larger, while lower frequencies (say near 700 Hz, panel A) generate ILDs of well below 10 dB. 
+
+ILDs are also significantly affected by the geometry of the head, outer ears, and shoulders, which is why the patterns of the ILDs are much more irregular than the Interaural time difference (ITD) patterns shown in C. ITDs are nearly spherically symmetric around the interaural axis, are much less frequency dependent, are maximal for positions right off to one side of the head, and never exceed values of 700 microseconds or so.
+
+ITDs and ILDs are both valuable cues for localizing sound sources, but even individuals who are deaf in one ear can sometimes localize sounds in space with some degree of accuracy. These judgements are thought to be based on monaural spectral cues (shown in D for sound source locations right in front, 0 degrees azimuth, at various elevation). Spectral cues arise because the outer ear filters sounds in a manner that depends on the angle of incidence of the sound waves, creating patterns of peaks and notches in the high frequency end of the sound.
+
+
 
 ---
 class: inverse, center, middle
@@ -320,7 +325,7 @@ Figure 12.16 Leighton Concert Hall in the DeBartolo Performing Arts Center at th
 
 ---
 
-# The Auditory Scene: Separating Sound Sources
+# .font70[The Auditory Scene: Separating Sound Sources]
 .pull-left[
 - **Auditory scene**: the array of all sound sources in the environment
 - **Auditory scene analysis**: process by which sound sources in the auditory scene are separated into individual perceptions.
@@ -335,7 +340,7 @@ Figure 12.17 Each musician produces a sound stimulus, but these signals are com
 
 ---
 
-# The Auditory Scene: Separating Sound Sources
+# .font70[The Auditory Scene: Separating Sound Sources]
 - Heuristics that help to perceptually organize stimuli
     - **Onset time**: sounds that start at different times are likely to come from different sources.
     - **Location**: a single sound source tends to come from one location and to move continuously. 
